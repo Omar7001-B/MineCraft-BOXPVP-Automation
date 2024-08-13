@@ -165,19 +165,99 @@ CapsLock::TestFunction()
 
 ; -------------------- Restart The Script --------------------
 
-~Esc:: RestartTheScript()
+global Interrupt := 0
+~Esc::
+    MyDebug("Interrupted by Esc")
+    RestartTheScript()
+return
+Ctrl::
+    Interrupt := 1
+Return
+
+/*
+Inventory Corners
+Mouse Coordinates: 792,535
+Mouse Coordinates: 1128,531
+Mouse Coordinates: 790,693
+Mouse Coordinates: 1132,695
+*/
+
+global InventoryTopLeft := [792, 535]
+global InventoryBottomRight := [1132, 695]
 
 TestFunction(){
 
-    ;wloop, 999999 {
-    ;SellItemFromBox("apples2.bmp", "BlackBox.bmp", 1000, 1000, 64, 64, True, Mod(A_Index, 3) == 0)
-    ;Sleep, 5000e
-    ;}
+    ;AddFarmData("GoldenBlocksFarm", 16, 48)
 
-    ;return
-    ;ShowMaterialForFullArmors(4)
-    ;PrepareAndBuyNumberOfFullArmors(4)
+    Return
+    EnsureGameFocus()
+    Return
 
+    ; Show color of : 1806, 355
+    PixelGetColor, OutputVar, 1806, 355
+    MyDebug("Pixel Color: " OutputVar " at 1806, 355")
+    return
+
+    MouseMoveToImg("BlackBox.bmp", 789, 553, 1138, 719)
+    Return
+    WinGet, hwnd, ID, A
+    MyDebug("Window Handle: " hwnd)
+    Return
+    ; Show current window name
+    WinGetTitle, currentWindow, A
+    MyDebug("Current Window: " currentWindow)
+    ; focus window on minecraft
+    WinActivate, Minecraft
+
+    ; check if minecraft Exist
+    if !WinExist("ahk_class Minecraft")
+    {
+        MyDebug("Minecraft is open")
+        return
+    }
+    Else
+    {
+        MyDebug("Minecraft is open")
+    }
+
+    return
+    topLeftX := InventoryTopLeft[1]
+    topLeftY := InventoryTopLeft[2]
+    bottomRightX := InventoryBottomRight[1]
+    bottomRightY := InventoryBottomRight[2]
+
+    PixelSearch, Px, Py, topLeftX, topLeftY, bottomRightX, bottomRightY, 0x1073F2, 3, Fast
+    if ErrorLevel = 0
+    {
+        MouseMove, Px, Py
+        MyDebug("Pixel found at " Px " " Py)
+    }
+    else
+    {
+        MyDebug("Pixel not found")
+    }
+
+    return
+    ; MouseMoveToImg("img/khaled.bmp", [792, 535], [1128, 531], [790, 693], [1132, 695])
+    if(MouseMoveToImg("img/or.png", InventoryTopLeft, InventoryTopRight, InventoryBottomLeft, InventoryBottomRight))
+    {
+        MyDebug("Found")
+    }
+    else
+    {
+        MyDebug("Not Found")
+    }
+
+    ; get pixel color at 1114, 662
+    PixelGetColor, OutputVar, 1114, 662
+    MyDebug("Pixel Color: " OutputVar)
+    ;; serach for  this pixel color at 1114 and move mouse to its PutItemOnAnotherItemToPv1(
+
+    ; first get coordinates of this color
+    ; Pixel Color: 0x1073F2
+    ; and then  move mouse to it
+
+    return
     imgPath := "img/emerled.png"
     ; move mouse to img
     ImageSearch, FoundX, FoundY, 0, 0, A_ScreenWidth, A_ScreenHeight, %imgPath%
@@ -195,3 +275,42 @@ TestFunction(){
 
 }
 
+TraceDelays(){
+    low := 3
+    high := 10
+
+    while(low <= high)
+    {
+        Interrupt := 0
+        mid := low
+        MyDebug("`n----------------------------------`nStarted with Delay: " mid "`n")
+        flag = 1
+        loop, 30
+        {
+
+            if(OpenShop() == 0)
+            {
+                flag := 0
+                break
+            }
+            Send, Esc
+            MyDebug("Sucess_" A_Index " delay " mid)
+            Sleep, mid * 1000
+        }
+
+        if(flag)
+        {
+            MyDebug("Mid: " mid " works successfully")
+            high := mid
+        }
+        else
+        {
+            MyDebug("Mid: " mid " does not work")
+        }
+        low := low + 1
+
+        MyDebug("`nFinished with Delay: " mid "`n---------------------------------")
+        MyDebug("Sleeping for 10 seconds")
+        Sleep, 10000
+    }
+}
