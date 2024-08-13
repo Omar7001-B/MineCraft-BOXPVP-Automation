@@ -24,6 +24,17 @@ global DefualtDelayAfter := 2
 Global GlobalClicks := 0
 Global TargetFunction
 
+ShowMsgOnMouse(msg, hideAfter)
+{
+    MouseGetPos, x, y ; Get the current mouse position
+    Tooltip, %message% ; Display the tooltip with the provided message
+    ToolTip, %message%
+    ; Set the position of the tooltip to the mouse location
+    Sleep, 2000 ; Keep the tooltip visible for 2 seconds (adjust as needed)
+    Tooltip ; Hide the tooltip
+    return
+}
+
 FullScreenBorderless() {
     ; Get the handle of the currently active window
     WinGet, hwnd, ID, A
