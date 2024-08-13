@@ -51,6 +51,13 @@ RetrieveFarmData(section)
     ; Return the values
     return {Amount: currentAmount, Time: currentTime}
 }
+
+OpenInventory()
+{
+    EnsureGameFocus()
+    Send, {e}
+    Sleep, 200
+}
 FarmNeitherBlocks(repeatCount := 1){
     loop, 99999 {
         BuyItemV2(BlockToCryingObsidian_C11)
