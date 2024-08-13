@@ -12,6 +12,30 @@ FarmGoldenBlocks(repeatCount := 999999){
     }
 }
 
+AddFarmData(section, amount, Time)
+{
+    global FarmStore ; Ensure FarmStore is available in the function
+
+    ; Check and initialize section if it doesn't exist
+    IniRead, currentAmount, %FarmStore%, %section%, Amount, 0
+    IniRead, currentTime, %FarmStore%, %section%, Time, 0
+
+    ; Convert the values to integers in case they are not properly initialized
+    currentAmount := currentAmount + 0
+    currentTime := currentTime + 0
+
+    ; Update values
+    newAmount := currentAmount + amount
+    newTime := currentTime + Time
+
+    ; Write updated values back to the INI file
+    IniWrite, %newAmount%, %FarmStore%, %section%, Amount
+    IniWrite, %newTime%, %FarmStore%, %section%, Time
+
+    ; Debug output
+    MyDebug("Added " . amount . " to " . section . " in " . Time . " seconds")
+    MyDebug("Total " . section . ": " . newAmount . " in " . newTime . " seconds`n")
+}
 FarmNeitherBlocks(repeatCount := 1){
     loop, 99999 {
         BuyItemV2(BlockToCryingObsidian_C11)
