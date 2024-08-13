@@ -26,9 +26,9 @@
 
 #include automation_v2/greedy.ahk
 
+CapsLock::TestFunction()
 #IfWinActive, Minecraft
     ^!F11::FullScreenBorderless()
-    CapsLock::TestFunction()
     ;1::GreedyPath(GoldenBlocksToGoldenIngot_P2, 3 * 64)
     ;;1::TestNethFarmV2()
     ; -------------------- Shop And Farming Functions --------------------
