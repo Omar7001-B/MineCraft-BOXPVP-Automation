@@ -1,5 +1,6 @@
 ﻿OpenShop(WurstKeyBinds := False) {
     EnsureMineCraftOpen()
+    EnsureGameFocus()
 
     PixelGetColor, color1, 960, 540
     DisableMouse()
@@ -103,10 +104,17 @@ BuyItemV2(item, repeatCount := 1, shiftKey := True, countDrop := 0, speed := 0) 
         Sleep, 100
         WaitForGoodPing()
         Point := item.C[A_Index]
+        Attempts := 1
         isClicked := MoveMouseClick(Point,,,,1)
         while(isClicked == 0){
             Sleep, 5000
             isClicked := MoveMouseClick(Point,,,,1)
+            Attempts := Attempts + 1
+            if(Attempts >= 3){
+                EnsureMineCraftOpen()
+                EnsureGameFocus()
+                BuyItemV2(item, repeatCount, shiftKey, countDrop, speed)
+            }
         }
         counter := counter + 1
     }
