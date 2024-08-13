@@ -36,6 +36,21 @@ AddFarmData(section, amount, Time)
     MyDebug("Added " . amount . " to " . section . " in " . Time . " seconds")
     MyDebug("Total " . section . ": " . newAmount . " in " . newTime . " seconds`n")
 }
+
+RetrieveFarmData(section)
+{
+    global FarmStore ; Ensure FarmStore is available in the function
+
+    ; Read current values from the INI file
+    IniRead, currentAmount, %FarmStore%, %section%, Amount, 0
+    IniRead, currentTime, %FarmStore%, %section%, Time, 0
+
+    ; Display the retrieved values (optional)
+    MsgBox, Amount: %currentAmount%`nTime: %currentTime%
+
+    ; Return the values
+    return {Amount: currentAmount, Time: currentTime}
+}
 FarmNeitherBlocks(repeatCount := 1){
     loop, 99999 {
         BuyItemV2(BlockToCryingObsidian_C11)
