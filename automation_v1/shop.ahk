@@ -1,4 +1,7 @@
 ﻿OpenShop(WurstKeyBinds := False) {
+    EnsureMineCraftOpen()
+
+    PixelGetColor, color1, 960, 540
     DisableMouse()
     WaitForGoodPing()
     if(WurstKeyBinds) {
@@ -12,6 +15,15 @@
         Send, { Enter }
     }
     Sleep, 400
+    PixelGetColor, color2, 960, 540
+    if(color1 == color2)
+    {
+        return 0
+    }
+    Else
+    {
+        return 1
+    }
 }
 
 CloseShop() {
