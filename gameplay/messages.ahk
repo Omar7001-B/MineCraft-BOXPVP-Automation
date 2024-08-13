@@ -1,4 +1,5 @@
 ﻿global FunUser := ""
+global FunUserFile := A_ScriptDir . "\data\FunUserName.txt"
 AssignFunUser()
 
 ShuffleArray(arr) {
@@ -196,18 +197,18 @@ ChangeFunUser()
     Send, ^c
     ClipWait, 1
     FunUser := Clipboard
-    FileDelete, FunUserName.txt
-    FileAppend, % FunUser, FunUserName.txt
+    FileDelete, %FunUserFile%
+    FileAppend, %FunUser%, %FunUserFile%
     Send, {Enter}
 }
 
 AssignFunUser()
 {
-    FileRead, FunUser, FunUserName.txt
+    FileRead, FunUser, %FunUserFile%
 }
 
 PasteFunUser()
 {
-    FileRead, FunUser, FunUserName.txt
+    FileRead, FunUser, %FunUserFile%
     SendInput, %FunUser%
 }

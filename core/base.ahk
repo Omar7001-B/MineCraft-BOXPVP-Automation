@@ -1,6 +1,6 @@
-﻿;#include utilities/globals.ahk
-#include utilities/coords.ahk
-#include utilities/paths.ahk
+﻿;#include utilities\globals.ahk
+#include utilities\coords.ahk
+#include utilities\paths.ahk
 
 SetDefaultMouseSpeed, 0
 SetMouseDelay, 0
@@ -9,7 +9,11 @@ global Running := True
 
 global StartTime := 0
 
-global LoggerFilePath := A_ScriptDir . "\LoggerFile.txt"
+global LoggerFilePath := A_ScriptDir . "\core\LoggerFile.txt"
+global CoordsFile := A_ScriptDir . "\core\coords.txt"
+global MyDebugFile := A_ScriptDir . "\core\MyDebug.txt"
+global PingOutputFile := A_ScriptDir . "\scripts\ping_output.txt"
+
 global DisableWurstHacks := "{Insert}"
 
 global DefaultSpeed := 6
@@ -20,19 +24,35 @@ global DefualtDelayAfter := 2
 Global GlobalClicks := 0
 Global TargetFunction
 
+FullScreenBorderless() {
+    ; Get the handle of the currently active window
+    WinGet, hwnd, ID, A
+
+    ; Get the screen dimensions
+    SysGet, screenWidth, 0
+    SysGet, screenHeight, 1
+
+    ; Set the window size to match the screen dimensionsnMove, ahk_id %hwnd%, , 0, 0, screenWidth, screenHeight
+    WinMove, ahk_id %hwnd%, , 0, 0, screenWidth, screenHeight
+
+    ; Set the window style to 0x170B0000
+    WinSet, Style, 0x17CF0000, ahk_id %hwnd%
+    WinSet, Style, 0x170B0000, ahk_id %hwnd%
+}
+
 CopyMouseCoordinates() {
     MouseGetPos, mouseX, mouseY
     PixelGetColor, color, % mouseX, % mouseY
     CoordString := mouseX "," mouseY "`n"
     colorString := "0x" . color "`n"
     Clipboard := CoordString
-    FileAppend, %CoordString%, Coord.txt
-    FileAppend, %colorString%, Coord.txt
+    FileAppend, %CoordString%, %CoordsFile%
+    FileAppend, %colorString%, %CoordsFile%
     MyDebug("Mouse Coordinates: " . CoordString . " Color: " . colorString)
 }
 MoveToMouseCoordinatesFromClipBoard()
 {
-    FileRead, CoordString, Coord.txA
+    FileRead, CoordString, %CoordsFile%
     StringSplit, CoordArray, CoordString, `,
     MouseMove, % CoordArray1, % CoordArray2
 }
@@ -128,8 +148,8 @@ FormatTime(ElapsedTime) {
 }
 
 MyDebug(variable) {
-    FileAppend, % variable, MyDebug.txt
-    FileAppend, % "`n", MyDebug.txt
+    FileAppend, % variable, %MyDebugFile%
+    FileAppend, % "`n", %MyDebugFile%
 }
 
 debugItemCoordinatesList(item){
@@ -141,9 +161,9 @@ debugItemCoordinatesList(item){
 }
 
 CheckPing(IPToPing := "31.25.11.33") {
-    FileDelete, ping_output.txt
-    RunWait, %ComSpec% /c ping %IPToPing% -n 1 > ping_output.txt,, Hide
-    FileRead, txt, ping_output.txt
+    FileDelete, %PingOutputFile%
+    RunWait, %ComSpec% /c ping %IPToPing% -n 1 > %PingOutputFile%,, Hide
+    FileRead, txt, %PingOutputFile%
 
     maxPing := ""
 
@@ -283,10 +303,10 @@ RestartTheScript() {
     Send, {Shift Up}
     TimeFinishLogg(false)
     Running := false
-    FileRead, MyFileContents, MyDebug.txt
+    FileRead, MyFileContents, %MyDebugFile%
     if (StrLen(MyFileContents) > 50000) {
-        FileDelete, MyDebug.txt
-        FileAppend,, MyDebug.txt
+        FileDelete, %MyDebugFile%
+        FileAppend,, %MyDebugFile%
     }
     Reload
 }

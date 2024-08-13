@@ -7,7 +7,7 @@
 ;y := var.outpu
 ;MsgBox, %x% %y%
 
-;1::CountEmptyCells()
+;1::CountEmptyCells()w
 ;(9, true)ShowMaterialForFullPickAxe(9, true)
 
 #include core/base.ahk
@@ -27,7 +27,7 @@
 #include automation_v2/greedy.ahk
 
 #IfWinActive, Minecraft
-
+    ^!F11::FullScreenBorderless()
     CapsLock::TestFunction()
     ;1::GreedyPath(GoldenBlocksToGoldenIngot_P2, 3 * 64)
     ;;1::TestNethFarmV2()

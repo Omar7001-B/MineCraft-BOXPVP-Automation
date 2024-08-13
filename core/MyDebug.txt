@@ -457,3 +457,127 @@ Mouse Coordinates: 1263,439
 Mouse Coordinates: 1326,360
  Color: 0x0x5E7382
 
+Color Before Click: 0x7B7B7B at 1065 400
+Color After Click: 0x7B7B7B at 1065 400
+--------
+Color Before Click: 0x7B7B7B at 1065 400
+Color After Click: 0x7B7B7B at 1065 400
+--------
+Color Before Click: 0x7B7B7B at 1065 400
+Mouse Coordinates: 960,540
+ Color: 0x0x404C5E
+
+Color Before Click: 0x1F1F1F at 994 475
+Color After Click: 0xADAFAE at 994 475
+--------
+Color Before Click: 0x1F1F1F at 1031 407
+Color Before Click: 0xC6C6C6 at 1065 400
+Color After Click: 0x2A3033 at 1065 400
+--------
+Color Before Click: 0xC6C6C6 at 994 405
+Color Before Click: 0xC4C4C4 at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0xFFC4A1 at 1065 400
+Color After Click: 0x202190 at 1065 400
+--------
+Color Before Click: 0x3E728D at 994 405
+Color Before Click: 0x1D743B at 956 478
+Color After Click: 0x1D743B at 956 478
+--------
+Color Before Click: 0x1D743B at 956 478
+Color After Click: 0x1D743B at 956 478
+--------
+Color Before Click: 0x141F37 at 1065 400
+Color After Click: 0x141F37 at 1065 400
+--------
+Color Before Click: 0x141F37 at 1065 400
+Color After Click: 0x141F37 at 1065 400
+--------
+Color Before Click: 0x67A3F9 at 1065 400
+Color After Click: 0x67A3F9 at 1065 400
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0xC6C6C6 at 994 405
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x106F3E at 920 404
+Color After Click: 0xC6C6C6 at 920 404
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0x131357 at 994 405
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0xC6C6C6 at 994 405
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x106F3E at 920 404
+Color After Click: 0xC6C6C6 at 920 404
+--------
+Color Before Click: 0xFFFFFF at 1065 400
+Color After Click: 0xFFFFFF at 1065 400
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0xC6C6C6 at 994 405
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x106F3E at 920 404
+Color After Click: 0xC6C6C6 at 920 404
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0x131357 at 994 405
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0xC6C6C6 at 994 405
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x106F3E at 920 404
+Color After Click: 0xC6C6C6 at 920 404
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0xC6C6C6 at 994 405
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x106F3E at 920 404
+Color After Click: 0xC6C6C6 at 920 404
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0x131357 at 994 405
+--------
+Color Before Click: 0x131357 at 994 405
+Color After Click: 0xC6C6C6 at 994 405
+--------
+Color Before Click: 0xCBFAAD at 1065 400
+Color After Click: 0xC4C4C4 at 1065 400
+--------
+Color Before Click: 0x106F3E at 920 404
+Color After Click: 0xC6C6C6 at 920 404
+--------

@@ -611,3 +611,18 @@ GoldenBlocks - 2s 48
 1x FarmGoldenBlocks took 00:00:01.484 manually
 1x FarmGoldenBlocks took 00:00:23.390 manually
 1x FarmGoldenBlocks took 00:00:21.500 manually
+1x FarmGoldenBlocks took 00:00:13.922 manually
+1x FulEndEveryThing took 00:00:04.250 manually
+1x FullSet took 00:00:04.547 manually
+1x FullSet took 00:00:01.547 manually
+1x FullSet took 00:00:09.938 manually
+1x FarmGoldenBlocks took 00:00:02.94 manually
+1x FarmGoldenBlocks took 00:00:14.968 manually
+1x FarmGoldenBlocks took 00:00:30.250
+0x FarmGoldenBlocks took 00:02:19.343 manually
+1x FullSet took 00:00:03.422 manually
+1x FullSet took 00:00:01.797 manually
+1x FarmGoldenBlocks took 00:00:30.328
+0x FarmGoldenBlocks took 00:02:54.812 manually
+1x FarmGoldenBlocks took 00:00:29.813
+0x FarmGoldenBlocks took 00:06:11.391 manually
