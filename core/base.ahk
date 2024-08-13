@@ -61,11 +61,14 @@ CopyMouseCoordinates() {
     ;FileAppend, %colorString%, %CoordsFile%
     MyDebug("Mouse Coordinates: " . CoordString . " Color: " . colorString)
 }
-MoveToMouseCoordinatesFromClipBoard()
-{
-    FileRead, CoordString, %CoordsFile%
-    StringSplit, CoordArray, CoordString, `,
-    MouseMove, % CoordArray1, % CoordArray2
+
+MoveToMouseCoordinatesFromClipBoard() {
+    CoordString := Clipboard
+    StringSplit, xy, CoordString, `,
+    PixelGetColor, color, % xy1, % xy2
+    MouseMove, %xy1%, %xy2%
+    MyDebug("Moving mouse to " . xy1 . " " . xy2)
+    MyDebug("Color: " . color)
 }
 
 GetPixelColor(mouseX, mouseY){
