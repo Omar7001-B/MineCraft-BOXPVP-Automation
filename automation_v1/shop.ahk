@@ -88,13 +88,19 @@ BuyAllItems(path, number := 16, numberOfClicks := 1, slowItems := 0) {
 }
 
 BuyItemV2(item, repeatCount := 1, shiftKey := True, countDrop := 0, speed := 0) {
-    OpenShop()
+    EnsureMineCraftOpen()
+    isShop := OpenShop()
+    while(isShop == 0) {
+        Sleep, 3000
+        EnsureMineCraftOpen()
+        isShop := OpenShop()
+    }
 
     length := item.C.Length()
     counter := 0
 
     loop, % length {
-        Sleep, 1000
+        Sleep, 100
         WaitForGoodPing()
         Point := item.C[A_Index]
         isClicked := MoveMouseClick(Point,,,,1)
@@ -148,6 +154,7 @@ BuyItemV2(item, repeatCount := 1, shiftKey := True, countDrop := 0, speed := 0) 
 
     Sleep, 200
     CloseShop()
+    Sleep, 4000
 }
 
 TakeCurrentItem(key){
