@@ -58,7 +58,7 @@ CopyMouseCoordinates() {
     colorString := "0x" . color "`n"
     Clipboard := CoordString
     FileAppend, %CoordString%, %CoordsFile%
-    FileAppend, %colorString%, %CoordsFile%
+    ;FileAppend, %colorString%, %CoordsFile%
     MyDebug("Mouse Coordinates: " . CoordString . " Color: " . colorString)
 }
 MoveToMouseCoordinatesFromClipBoard()
