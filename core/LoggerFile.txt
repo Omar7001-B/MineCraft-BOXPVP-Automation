@@ -626,3 +626,99 @@ GoldenBlocks - 2s 48
 0x FarmGoldenBlocks took 00:02:54.812 manually
 1x FarmGoldenBlocks took 00:00:29.813
 0x FarmGoldenBlocks took 00:06:11.391 manually
+1x FarmGoldenBlocks took 00:00:12.906 manually
+1x FarmGoldenBlocks took 00:00:30.422
+1x FarmGoldenBlocks took 00:00:29.719
+1x FarmGoldenBlocks took 00:00:29.875
+1x FarmGoldenBlocks took 00:00:16.531 manually
+1x FarmGoldenBlocks took 00:00:30.703
+0x FarmGoldenBlocks took 00:00:52.219 manually
+1x FarmGoldenBlocks took 00:00:30.63
+0x FarmGoldenBlocks took 00:00:30.688 manually
+1x FarmGoldenBlocks took 00:00:02.578 manually
+1x FarmGoldenBlocks took 00:00:04.594 manually
+1x FarmGoldenBlocks took 00:00:13.63 manually
+1x FarmGoldenBlocks took 00:00:36.625
+1x FarmGoldenBlocks took 00:00:36.671
+1x FarmGoldenBlocks took 00:00:36.484
+1x FarmGoldenBlocks took 00:00:36.625
+1x FarmGoldenBlocks took 00:00:40.454 manually
+1x FarmGoldenBlocks took 00:00:31.953
+1x FarmGoldenBlocks took 00:00:30.968
+1x FarmGoldenBlocks took 00:00:01.47 manually
+1x FarmGoldenBlocks took 00:00:30.859
+1x FarmGoldenBlocks took 00:00:31.32
+1x FarmGoldenBlocks took 00:00:31.203
+1x FarmGoldenBlocks took 00:00:31.671
+1x FarmGoldenBlocks took 00:00:32.406
+0x FarmGoldenBlocks took 00:01:54.547 manually
+1x FarmGoldenBlocks took 00:00:04.547 manually
+1x FarmGoldenBlocks took 00:00:27.703 manually
+1x FarmGoldenBlocks took 00:00:26.94 manually
+1x FarmGoldenBlocks took 00:00:07.265 manually
+1x FarmGoldenBlocks took 00:00:08.578 manually
+1x FarmGoldenBlocks took 00:00:02.156 manually
+1x FarmGoldenBlocks took 00:00:09.734 manually
+1x FarmGoldenBlocks took 00:00:15.484 manually
+1x FarmGoldenBlocks took 00:00:10.469 manually
+1x FarmGoldenBlocks took 00:00:19.438 manually
+1x FarmGoldenBlocks took 00:00:19.641 manually
+1x FarmGoldenBlocks took 00:00:21.563 manually
+1x FarmGoldenBlocks took 00:00:21.766 manually
+1x FarmGoldenBlocks took 00:00:21.985 manually
+1x FarmGoldenBlocks took 00:00:22.188 manually
+1x FarmGoldenBlocks took 00:00:22.406 manually
+1x FarmGoldenBlocks took 00:00:26.891 manually
+1x FarmGoldenBlocks took 00:00:27.94 manually
+1x FarmGoldenBlocks took 00:00:29.110 manually
+1x FarmGoldenBlocks took 00:00:29.516 manually
+1x FarmGoldenBlocks took 00:00:29.797 manually
+1x FarmGoldenBlocks took 00:00:33.953 manually
+1x FarmGoldenBlocks took 00:00:03.719 manually
+1x FarmGoldenBlocks took 00:00:10.781 manually
+1x FarmGoldenBlocks took 00:00:09.687 manually
+1x FarmGoldenBlocks took 00:00:12.500 manually
+1x FarmGoldenBlocks took 00:00:29.406 manually
+1x FarmGoldenBlocks took 00:00:01.250
+0x FarmGoldenBlocks took 00:00:01.265
+1x FarmGoldenBlocks took 00:00:33.891
+1x FarmGoldenBlocks took 00:00:36.547
+0x FarmGoldenBlocks took 00:01:14.203 manually
+1x FarmGoldenBlocks took 00:00:35.438
+1x FarmGoldenBlocks took 00:00:39.437 manually
+1x FarmGoldenBlocks took 00:00:24.969 manually
+1x FarmGoldenBlocks took 00:00:33.281
+1x FarmGoldenBlocks took 00:00:35.860
+1x FarmGoldenBlocks took 00:00:33.625
+1x FarmGoldenBlocks took 00:00:33.391
+1x FarmGoldenBlocks took 00:00:14.78 manually
+1x FarmGoldenBlocks took 00:00:32.891
+0x FarmGoldenBlocks took 00:01:38.32 manually
+0x  took 00:00:05.765 manually
+1x FarmGoldenBlocks took 00:00:01.531 manually
+1x FarmGoldenBlocks took 00:00:02.313 manually
+1x FarmGoldenBlocks took 00:00:05.63 manually
+1x FarmGoldenBlocks took 00:00:03.656 manually
+1x FarmGoldenBlocks took 00:00:06.953 manually
+1x FarmGoldenBlocks took 00:00:45.94
+1x FarmGoldenBlocks took 00:01:59.891 manually
+0x  took 00:00:33.922 manually
+1x FarmGoldenBlocks took 00:00:04.797 manually
+1x FarmGoldenBlocks took 00:00:03.32 manually
+1x FarmGoldenBlocks took 00:00:01.125 manually
+1x FarmGoldenBlocks took 00:00:01.63 manually
+1x FarmGoldenBlocks took 00:00:11.922 manually
+1x FarmGoldenBlocks took 00:00:11.172 manually
+1x FarmGoldenBlocks took 00:02:02.16 manually
+1x FarmGoldenBlocks took 00:01:16.531 manually
+1x FarmGoldenBlocks took 00:00:07.219 manually
+1x FarmGoldenBlocks took 00:00:03.219 manually
+1x FarmGoldenBlocks took 00:00:06.672 manually
+1x FarmGoldenBlocks took 00:01:55.828 manually
+1x FarmGoldenBlocks took 00:06:01.640 manually
+1x FarmGoldenBlocks took 00:00:08.922 manually
+1x FarmGoldenBlocks took 00:00:16.516 manually
+1x FarmGoldenBlocks took 00:04:03.844 manually
+1x FarmGoldenBlocks took 00:00:07.172 manually
+1x FarmGoldenBlocks took 00:00:02.407 manually
+1x FarmGoldenBlocks took 00:00:28.969 manually
