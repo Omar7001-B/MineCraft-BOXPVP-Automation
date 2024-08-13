@@ -1,0 +1,613 @@
+Material for 5 full armors
+
+Gold : 
+GoldenNuggets : [380] 5s 60 --- 6 = 6s 0
+CompressedRowGold : [120] 1s 56 --- 2 = 2s 0
+Golden Ignot : [260] 4s 4 --- 50 = 4s 12
+Golden Block : [160] 2s 32 --- 2s 32 = 2s 32
+GoldenBlocks - 3s 26
+------------------
+Neither : 
+Scrap : [80] 1s 16 --- 2 = 1s 44
+CompBrick : [20] 20 --- 2 = 42
+Ignot : [120] 1s 56 --- 8 = 2s 22
+NetherBlocks : [60] 60 --- 60 = 60
+NetherBlocks - 1s 8
+------------------
+End : 
+Shards : [80] 1s 16 --- 4 = 2s 0
+Bud : [40] 40 --- 4 = 1s 0
+Clusters : [60] 60 --- 12 = 1s 4
+Amethyst : [80] 1s 16 --- 1s 16 = 1s 16
+EndBlocks - 1s 36
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+End : 
+Shards : [64] 1s 0 --- 2 = 1s 0
+Bud : [32] 32 --- 2 = 32
+Clusters : [48] 48 --- 10 = 57
+Amethyst : [64] 1s 0 --- 1s 0 = 1s 0
+EndBlocks - 1s 14
+------------------
+
+1x FarmEndBlocksV2 took 00:00:51.156 manually
+1x FarmEndBlocksV2 took 00:00:46.172 manually
+1x FarmEndBlocks took 00:01:49.859 manually
+1x FarmEndBlocks took 00:04:44.140 manually
+1x FarmEndBlocks took 00:03:42.734 manually
+1x FarmEndBlocks took 00:04:39.328 manually
+1x FarmEndBlocks took 00:00:23.0 manually
+1x CheckMoneyOfAllPlayers took 00:00:14.765 manually
+1x FullSet took 00:00:02.625 manually
+1x FullSet took 00:03:39.297
+0x FullSet took 00:06:10.266 manually
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+End : 
+Shards : [64] 1s 0 --- 2 = 1s 0
+Bud : [32] 32 --- 2 = 32
+Clusters : [48] 48 --- 10 = 57
+Amethyst : [64] 1s 0 --- 1s 0 = 1s 0
+EndBlocks - 1s 14
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+End : 
+Shards : [64] 1s 0 --- 2 = 1s 0
+Bud : [32] 32 --- 2 = 32
+Clusters : [48] 48 --- 10 = 57
+Amethyst : [64] 1s 0 --- 1s 0 = 1s 0
+EndBlocks - 1s 14
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+End : 
+Shards : [64] 1s 0 --- 2 = 1s 0
+Bud : [32] 32 --- 2 = 32
+Clusters : [48] 48 --- 10 = 57
+Amethyst : [64] 1s 0 --- 1s 0 = 1s 0
+EndBlocks - 1s 14
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+End : 
+Shards : [64] 1s 0 --- 2 = 1s 0
+Bud : [32] 32 --- 2 = 32
+Clusters : [48] 48 --- 10 = 57
+Amethyst : [64] 1s 0 --- 1s 0 = 1s 0
+EndBlocks - 1s 14
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+End : 
+Shards : [64] 1s 0 --- 2 = 1s 0
+Bud : [32] 32 --- 2 = 32
+Clusters : [48] 48 --- 10 = 57
+Amethyst : [64] 1s 0 --- 1s 0 = 1s 0
+EndBlocks - 1s 14
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+Material for 2 full armors
+
+Gold : 
+GoldenNuggets : [152] 2s 24 --- 4 = 4s 0
+CompressedRowGold : [48] 48 --- 2 = 2s 0
+Golden Ignot : [104] 1s 40 --- 20 = 1s 44
+Golden Block : [64] 1s 0 --- 1s 0 = 1s 0
+GoldenBlocks - 1s 26
+------------------
+
+Material for 2 full armors
+
+Gold : 
+GoldenNuggets : [152] 2s 24 --- 4 = 4s 0
+CompressedRowGold : [48] 48 --- 2 = 2s 0
+Golden Ignot : [104] 1s 40 --- 20 = 1s 44
+Golden Block : [64] 1s 0 --- 1s 0 = 1s 0
+GoldenBlocks - 1s 26
+------------------
+
+Material for 2 full armors
+
+Gold : 
+GoldenNuggets : [152] 2s 24 --- 4 = 4s 0
+CompressedRowGold : [48] 48 --- 2 = 2s 0
+Golden Ignot : [104] 1s 40 --- 20 = 1s 44
+Golden Block : [64] 1s 0 --- 1s 0 = 1s 0
+GoldenBlocks - 1s 26
+------------------
+
+Material for 2 full armors
+
+Gold : 
+GoldenNuggets : [152] 2s 24 --- 4 = 4s 0
+CompressedRowGold : [48] 48 --- 2 = 2s 0
+Golden Ignot : [104] 1s 40 --- 20 = 1s 44
+Golden Block : [64] 1s 0 --- 1s 0 = 1s 0
+GoldenBlocks - 1s 26
+------------------
+
+Neither : 
+Scrap : [32] 32 --- 2 = 1s 44
+CompBrick : [8] 8 --- 2 = 42
+Ignot : [48] 48 --- 4 = 1s 12
+NetherBlocks : [24] 24 --- 24 = 24
+NetherBlocks - 32
+------------------
+
+Neither : 
+Scrap : [32] 32 --- 2 = 1s 44
+CompBrick : [8] 8 --- 2 = 42
+Ignot : [48] 48 --- 4 = 1s 12
+NetherBlocks : [24] 24 --- 24 = 24
+NetherBlocks - 32
+------------------
+End : 
+Shards : [32] 32 --- 2 = 1s 0
+Bud : [16] 16 --- 2 = 32
+Clusters : [24] 24 --- 6 = 34
+Amethyst : [32] 32 --- 32 = 32
+EndBlocks - 42
+------------------
+
+Material for 2 full armors
+
+Gold : 
+GoldenNuggets : [152] 2s 24 --- 4 = 4s 0
+CompressedRowGold : [48] 48 --- 2 = 2s 0
+Golden Ignot : [104] 1s 40 --- 20 = 1s 44
+Golden Block : [64] 1s 0 --- 1s 0 = 1s 0
+GoldenBlocks - 1s 26
+------------------
+
+Material for 2 full armors
+
+Gold : 
+GoldenNuggets : [152] 2s 24 --- 4 = 4s 0
+CompressedRowGold : [48] 48 --- 2 = 2s 0
+Golden Ignot : [104] 1s 40 --- 20 = 1s 44
+Golden Block : [64] 1s 0 --- 1s 0 = 1s 0
+GoldenBlocks - 1s 26
+------------------
+
+Neither : 
+Scrap : [32] 32 --- 2 = 1s 44
+CompBrick : [8] 8 --- 2 = 42
+Ignot : [48] 48 --- 4 = 1s 12
+NetherBlocks : [24] 24 --- 24 = 24
+NetherBlocks - 32
+------------------
+
+Neither : 
+Scrap : [32] 32 --- 2 = 1s 44
+CompBrick : [8] 8 --- 2 = 42
+Ignot : [48] 48 --- 4 = 1s 12
+NetherBlocks : [24] 24 --- 24 = 24
+NetherBlocks - 32
+------------------
+End : 
+Shards : [32] 32 --- 2 = 1s 0
+Bud : [16] 16 --- 2 = 32
+Clusters : [24] 24 --- 6 = 34
+Amethyst : [32] 32 --- 32 = 32
+EndBlocks - 42
+------------------
+
+1x FarmNeitherBlocksV2 took 00:00:01.593 manually
+1x FarmNeitherBlocksV2 took 00:01:07.312 manually
+Material for 2 full armors
+
+Gold : 
+GoldenNuggets : [152] 2s 24 --- 4 = 4s 0
+CompressedRowGold : [48] 48 --- 2 = 2s 0
+Golden Ignot : [104] 1s 40 --- 20 = 1s 44
+Golden Block : [64] 1s 0 --- 1s 0 = 1s 0
+GoldenBlocks - 1s 26
+------------------
+
+Neither : 
+Scrap : [32] 32 --- 2 = 1s 44
+CompBrick : [8] 8 --- 2 = 42
+Ignot : [48] 48 --- 4 = 1s 12
+NetherBlocks : [24] 24 --- 24 = 24
+NetherBlocks - 32
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+End : 
+Shards : [64] 1s 0 --- 2 = 1s 0
+Bud : [32] 32 --- 2 = 32
+Clusters : [48] 48 --- 10 = 57
+Amethyst : [64] 1s 0 --- 1s 0 = 1s 0
+EndBlocks - 1s 14
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+End : 
+Shards : [64] 1s 0 --- 2 = 1s 0
+Bud : [32] 32 --- 2 = 32
+Clusters : [48] 48 --- 10 = 57
+Amethyst : [64] 1s 0 --- 1s 0 = 1s 0
+EndBlocks - 1s 14
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+Neither : 
+Scrap : [64] 1s 0 --- 2 = 1s 44
+CompBrick : [16] 16 --- 2 = 42
+Ignot : [96] 1s 32 --- 6 = 1s 50
+NetherBlocks : [48] 48 --- 48 = 48
+NetherBlocks - 58
+------------------
+
+Material for 3 full armors
+
+Gold : 
+GoldenNuggets : [228] 3s 36 --- 4 = 4s 0
+CompressedRowGold : [72] 1s 8 --- 2 = 2s 0
+Golden Ignot : [156] 2s 28 --- 30 = 2s 32
+Golden Block : [96] 1s 32 --- 1s 32 = 1s 32
+GoldenBlocks - 2s 4
+------------------
+Neither : 
+Scrap : [48] 48 --- 2 = 1s 44
+CompBrick : [12] 12 --- 2 = 42
+Ignot : [72] 1s 8 --- 4 = 1s 12
+NetherBlocks : [36] 36 --- 36 = 36
+NetherBlocks - 44
+------------------
+End : 
+Shards : [48] 48 --- 2 = 1s 0
+Bud : [24] 24 --- 2 = 32
+Clusters : [36] 36 --- 8 = 45
+Amethyst : [48] 48 --- 48 = 48
+EndBlocks - 60
+------------------
+
+1x FarmNeitherBlocksV2 took 00:00:59.312 manually
+1x FarmNeitherBlocksV2 took 00:00:08.421 manually
+Material for 3 full armors
+
+Gold : 
+GoldenNuggets : [228] 3s 36 --- 4 = 4s 0
+CompressedRowGold : [72] 1s 8 --- 2 = 2s 0
+Golden Ignot : [156] 2s 28 --- 30 = 2s 32
+Golden Block : [96] 1s 32 --- 1s 32 = 1s 32
+GoldenBlocks - 2s 4
+------------------
+
+Neither : 
+Scrap : [48] 48 --- 2 = 1s 44
+CompBrick : [12] 12 --- 2 = 42
+Ignot : [72] 1s 8 --- 4 = 1s 12
+NetherBlocks : [36] 36 --- 36 = 36
+NetherBlocks - 44
+------------------
+
+Neither : 
+Scrap : [48] 48 --- 2 = 1s 44
+CompBrick : [12] 12 --- 2 = 42
+Ignot : [72] 1s 8 --- 4 = 1s 12
+NetherBlocks : [36] 36 --- 36 = 36
+NetherBlocks - 44
+------------------
+End : 
+Shards : [48] 48 --- 2 = 1s 0
+Bud : [24] 24 --- 2 = 32
+Clusters : [36] 36 --- 8 = 45
+Amethyst : [48] 48 --- 48 = 48
+EndBlocks - 60
+------------------
+
+Material for 4 full armors
+
+Gold : 
+GoldenNuggets : [304] 4s 48 --- 6 = 6s 0
+CompressedRowGold : [96] 1s 32 --- 2 = 2s 0
+Golden Ignot : [208] 3s 16 --- 40 = 3s 22
+Golden Block : [128] 2s 0 --- 2s 0 = 2s 0
+GoldenBlocks - 2s 48
+------------------
+
+1x BuyInvisPotion took 00:00:03.593 manually
+1x BuyStrengthPotion took 00:00:01.109 manually
+1x FarmNeitherBlocks took 00:00:00.953 manually
+1x FarmGoldenBlocksV3 took 00:00:15.359 manually
+1x FarmGoldenBlocksV3 took 00:00:01.343
+1x FarmGoldenBlocksV3 took 00:00:02.875
+1x FarmGoldenBlocksV3 took 00:00:01.16
+1x FarmGoldenBlocksV3 took 00:00:01.125
+1x FarmGoldenBlocksV3 took 00:00:01.766
+1x FarmGoldenBlocksV3 took 00:00:01.625
+1x FarmGoldenBlocksV3 took 00:00:02.375
+0x FarmGoldenBlocksV3 took 00:00:09.47 manually
+1x FullSet took 00:01:00.235 manually
+1x GoldenBlocksToGoldenApplesV3 took 00:00:02.766 manually
+1x GoldenBlocksToGoldenApples took 00:01:51.782
+0x GoldenBlocksToGoldenApples took 00:02:59.907 manually
+1x FarmNeitherBlocks took 00:00:05.938 manually
+1x BuyStrengthPotion took 00:00:04.875 manually
+1x BuyStrengthPotion took 00:00:04.375 manually
+1x GoldenBlocksToGoldenApples took 00:00:17.672 manually
+1x FarmGoldenBlocks took 00:00:08.468 manually
+1x FarmGoldenBlocks took 00:00:05.328 manually
+1x FarmNeitherBlocks took 00:00:05.859 manually
+1x FarmGoldenBlocks took 00:00:04.953 manually
+1x FarmEndBlocks took 00:00:01.829 manually
+1x FarmGoldenBlocks took 00:00:03.0 manually
+1x FarmGoldenBlocks took 00:00:02.562 manually
+1x FarmGoldenBlocksV3 took 00:00:13.719 manually
+1x FarmGoldenBlocks took 00:00:14.735 manually
+1x FarmGoldenBlocks took 00:00:19.563 manually
+1x FarmGoldenBlocks took 00:00:25.47 manually
+1x FarmGoldenBlocks took 00:00:07.625 manually
+1x FarmGoldenBlocks took 00:00:18.515 manually
+1x FarmGoldenBlocks took 00:00:16.500 manually
+1x FarmGoldenBlocks took 00:00:14.578 manually
+1x FarmGoldenBlocks took 00:00:06.532 manually
+1x FarmGoldenBlocks took 00:00:14.234 manually
+1x FarmGoldenBlocks took 00:00:29.687 manually
+1x FarmGoldenBlocks took 00:00:08.828 manually
+1x FarmGoldenBlocks took 00:00:19.922 manually
+1x FarmGoldenBlocks took 00:00:08.953 manually
+1x FarmGoldenBlocks took 00:00:48.985 manually
+1x FarmGoldenBlocks took 00:00:29.203 manually
+1x FarmGoldenBlocks took 00:01:15.625 manually
+1x FarmGoldenBlocks took 00:00:07.719 manually
+1x FarmGoldenBlocks took 00:00:18.890
+0x FarmGoldenBlocks took 00:00:20.171 manually
+1x FarmGoldenBlocks took 00:00:17.610 manually
+1x FarmGoldenBlocks took 00:00:19.985 manually
+1x FarmGoldenBlocks took 00:00:09.125 manually
+1x FarmGoldenBlocks took 00:00:09.672 manually
+1x FarmGoldenBlocks took 00:00:01.937 manually
+1x FarmGoldenBlocks took 00:00:07.187 manually
+1x FarmGoldenBlocks took 00:00:17.203 manually
+1x FarmGoldenBlocks took 00:00:16.984 manually
+1x FarmGoldenBlocks took 00:00:15.829 manually
+1x FarmGoldenBlocks took 00:00:14.0 manually
+1x FarmGoldenBlocks took 00:00:06.94 manually
+1x FarmGoldenBlocks took 00:00:25.734 manually
+1x FarmGoldenBlocks took 00:00:08.796 manually
+1x FarmGoldenBlocks took 00:00:19.359 manually
+1x FarmGoldenBlocks took 00:00:14.875 manually
+1x FarmGoldenBlocks took 00:00:12.453 manually
+1x FarmGoldenBlocks took 00:00:17.547 manually
+1x FarmGoldenBlocks took 00:00:06.954 manually
+1x FarmGoldenBlocks took 00:00:07.141 manually
+1x FarmGoldenBlocks took 00:00:04.625 manually
+1x FarmGoldenBlocks took 00:00:30.16 manually
+1x FarmGoldenBlocks took 00:00:24.625 manually
+1x FarmGoldenBlocks took 00:00:19.78 manually
+1x FarmGoldenBlocks took 00:00:08.391 manually
+1x FarmGoldenBlocks took 00:00:03.562 manually
+1x FarmGoldenBlocks took 00:00:03.0 manually
+1x FarmGoldenBlocks took 00:00:03.62 manually
+1x FarmGoldenBlocks took 00:00:21.734 manually
+1x FarmGoldenBlocks took 00:00:07.890 manually
+1x FarmGoldenBlocks took 00:00:23.609 manually
+1x FarmGoldenBlocks took 00:00:15.860 manually
+1x FarmGoldenBlocks took 00:00:29.984
+0x FarmGoldenBlocks took 00:00:30.438 manually
+1x FarmGoldenBlocks took 00:01:17.250 manually
+1x FarmGoldenBlocks took 00:00:38.391 manually
+1x FarmGoldenBlocks took 00:00:02.516 manually
+1x FarmGoldenBlocks took 00:00:39.594
+1x FarmGoldenBlocks took 00:00:32.110
+1x FarmGoldenBlocks took 00:00:28.344
+0x FarmGoldenBlocks took 00:02:03.797 manually
+1x FarmGoldenBlocks took 00:00:14.265 manually
+1x FarmGoldenBlocks took 00:00:30.484
+1x FarmGoldenBlocks took 00:00:23.422 manually
+1x FarmGoldenBlocks took 00:00:30.281
+0x FarmGoldenBlocks took 00:08:07.796 manually
+1x FarmGoldenBlocks took 00:00:13.125 manually
+1x FarmGoldenBlocks took 00:00:29.829
+1x FarmGoldenBlocks took 00:00:29.687
+0x FarmGoldenBlocks took 00:01:19.0 manually
+1x FarmGoldenBlocks took 00:00:04.437 manually
+1x FarmGoldenBlocks took 00:00:24.922
+0x FarmGoldenBlocks took 00:00:27.656 manually
+1x FarmGoldenBlocks took 00:00:01.735 manually
+1x FarmGoldenBlocks took 00:00:01.657 manually
+1x FarmGoldenBlocks took 00:00:01.484 manually
+1x FarmGoldenBlocks took 00:00:23.390 manually
+1x FarmGoldenBlocks took 00:00:21.500 manually

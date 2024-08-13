@@ -1,0 +1,10 @@
+# Ignore Visual Studio files and directories
+FunctionsIdeas Cpp/.vs/
+FunctionsIdeas Cpp/MainDebug.vcxproj
+FunctionsIdeas Cpp/MainDebug.vcxproj.filters
+FunctionsIdeas Cpp/MainDebug.vcxproj.user
+FunctionsIdeas Cpp/x64/
+
+# Ignore specific files
+FunctionsIdeas Cpp/MineCraftShop.cpp - Shortcut.lnk
+FunctionsIdeas Cpp/MineCraftShop.sln
