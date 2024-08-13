@@ -1,6 +1,6 @@
-﻿;#include globals.ahk
-#include coords.ahk
-#include paths.ahk
+﻿;#include utilities/globals.ahk
+#include utilities/coords.ahk
+#include utilities/paths.ahk
 
 SetDefaultMouseSpeed, 0
 SetMouseDelay, 0

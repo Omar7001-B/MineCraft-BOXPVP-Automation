@@ -10,21 +10,21 @@
 ;1::CountEmptyCells()
 ;(9, true)ShowMaterialForFullPickAxe(9, true)
 
-#include base.ahk
+#include core/base.ahk
 
-#include shop.ahk
-#include inventory.ahk
-#include auction.ahk
+#include automation_v1/shop.ahk
+#include automation_v2/inventory.ahk
+#include automation_v2/auction.ahk
 
-#include farm.ahk
-#include fullsets.ahk
+#include automation_v1/farm.ahk
+#include automation_v1/fullsets.ahk
 
-#include mechanics.ahk
-#include messages.ahk
+#include gameplay/mechanics.ahk
+#include gameplay/messages.ahk
 
-#include gui.ahk
+#include core/gui.ahk
 
-#include greedy.ahk
+#include automation_v2/greedy.ahk
 
 #IfWinActive, Minecraft
 
