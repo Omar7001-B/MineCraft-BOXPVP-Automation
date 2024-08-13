@@ -84,6 +84,9 @@ GetPixelColor(mouseX, mouseY){
 
 EnsureGameFocus()
 {
+    if(OutputVar = 0xFCDD47)
+        return
+
     PixelGetColor, OutputVar, 1806, 355
     Counter := 0
     ; Loop with a while statement, limiting it to 10 iterations
@@ -111,7 +114,9 @@ EnsureGameFocus()
 EnsureMineCraftOpen() {
     WinGetTitle, currentWindow, A
     if !InStr(currentWindow, "Minecraft") {
+        WinGet, hwnd, ID, A
         MyDebug("Ensuring Minecraft is open, we're currently in " . currentWindow)
+        MyDebug("Window Handle: " hwnd)
         ; make loop 3 times, each time activate minecraft then sleep 1 second and check if current window title = minecraft, if so return , else then reload tEh script
         Loop, 3 {
             Sleep, 1000
