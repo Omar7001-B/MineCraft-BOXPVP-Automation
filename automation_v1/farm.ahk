@@ -58,6 +58,54 @@ OpenInventory()
     Send, {e}
     Sleep, 200
 }
+
+LoadGoldenBlocksInShulker()
+{
+    FirstInvCell := [986, 556]
+    FirstShulkerCell := [817, 421]
+    StoreInInv := [1080, 390]
+    OpenInventory()
+    ; Open Shulker
+    MouseMove, FirstInvCell[1], FirstInvCell[2]
+    Click Right
+    Sleep, 1000
+
+    ; Store Everything In Shulker
+    MouseMove, StoreInInv[1], StoreInInv[2]
+    Click Left
+
+    Sleep, 2000
+
+    ; Send 40 GoldenBlocks back to the inv
+    MouseMove, FirstShulkerCell[1], FirstShulkerCell[2]
+    Click Left ; Split
+    Sleep, 100
+    Click Left ; Split
+    Sleep, 1000
+
+    Click Left ; Split
+
+    loop, 15
+    {
+        Click Right ; Split
+        Sleep, 100
+    }
+
+    ; Send Shift + left click
+    Send, {Shift Down}
+    Sleep, 200
+    Click Left
+    Sleep, 200
+    Send, {Shift Up}
+    Sleep, 200
+
+    ; Putting the picked elements back
+    Click Left
+
+    ; Close the Shulker
+    CloseShop()
+}
+
 FarmNeitherBlocks(repeatCount := 1){
     loop, 99999 {
         BuyItemV2(BlockToCryingObsidian_C11)
