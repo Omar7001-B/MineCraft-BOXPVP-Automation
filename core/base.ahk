@@ -82,11 +82,57 @@ GetPixelColor(mouseX, mouseY){
     return colors
 }
 
+EnsureGameFocus()
+{
+    PixelGetColor, OutputVar, 1806, 355
+    Counter := 0
+    ; Loop with a while statement, limiting it to 10 iterations
+    while (OutputVar != 0xFCDD47 && Counter < 10)
+    {
+        MyDebug("Game is not focused")
+        WinActivate, Minecraft
+        Send, {Esc}
+        Sleep, 1000
+        PixelGetColor, OutputVar, 1806, 355
+        Counter++
+    }
+
+    if (OutputVar != 0xFCDD47)
+    {
+        MyDebug("Game is not focused, Script Wil Restart")
+        RestartTheScript()
+    }
+    Else
+    {
+        MyDebug("Game is focused")
+    }
+}
+
+EnsureMineCraftOpen() {
+    WinGetTitle, currentWindow, A
+    if !InStr(currentWindow, "Minecraft") {
+        MyDebug("Ensuring Minecraft is open, we're currently in " . currentWindow)
+        ; make loop 3 times, each time activate minecraft then sleep 1 second and check if current window title = minecraft, if so return , else then reload tEh script
+        Loop, 3 {
+            Sleep, 1000
+            WinActivate, Minecraft
+            Sleep, 1000
+            WinGetTitle, currentWindow, A
+            if InStr(currentWindow, "Minecraft") {
+                return
+            }
+        }
+        MyDebug("Minecraft is not open, Script Wil Restart")
+        RestartTheScript()
+    }
+}
+
 MoveMouseClick(Point, Speed := "", Delay := "", DpelayAfter := "", checkPixel := 0) {
+    EnsureMineCraftOpen()
     ;MouseClick, ,% Point[1], % Point[2]
     if(checkPixel == 1){
         PixelGetColor, color, % Point[1], % Point[2]
-        MyDebug("Color Before Click: " . color . " at " . Point[1] . " " . Point[2])
+        ;MyDebug("Color Before Click: " . color . " at " . Point[1] . " " . Point[2])
         Sleep, 50
 
         MouseClick, left, % Point[1], % Point[2]
@@ -95,8 +141,8 @@ MoveMouseClick(Point, Speed := "", Delay := "", DpelayAfter := "", checkPixel :=
         Sleep, 400
 
         PixelGetColor, color2, % Point[1], % Point[2]
-        MyDebug("Color After Click: " . color2 . " at " . Point[1] . " " . Point[2])
-        MyDebug("--------")
+        ;MyDebug("Color After Click: " . color2 . " at " . Point[1] . " " . Point[2])
+        ;MyDebug("--------")
         Sleep, 50
 
         if(color == color2){
@@ -287,6 +333,7 @@ TimeFinishLogg(automatic := true){
 ;---------------------------------------
 
 FunctionRunner(justFunction) {
+    EnsureMineCraftOpen()
     ; Show tooltip saying function is Running for only 2 seconds
 
     Global GlobalClicks := 0
@@ -311,6 +358,7 @@ StopClicking() {
 ;---------------------------------------
 
 RestartTheScript() {
+    MyDebug("Restarting the script")
     EnableMouse()
     global DisableWurstHacks
     Send %DisableWurstHacks%
