@@ -23,11 +23,11 @@ Global TargetFunction
 CopyMouseCoordinates() {
     MouseGetPos, mouseX, mouseY
     PixelGetColor, color, % mouseX, % mouseY
-    CoordString := mouseX "," mouseY
-    colorString := "0x" . color
+    CoordString := mouseX "," mouseY "`n"
+    colorString := "0x" . color "`n"
     Clipboard := CoordString
-    FileAppend, %CoordString%, Coord.txA
-    FileAppend, %colorString%, Coord.txB
+    FileAppend, %CoordString%, Coord.txt
+    FileAppend, %colorString%, Coord.txt
     MyDebug("Mouse Coordinates: " . CoordString . " Color: " . colorString)
 }
 MoveToMouseCoordinatesFromClipBoard()

@@ -451,3 +451,9 @@ Mouse Coordinates: 960,551 Color: 0x0xE3E8E5
 Mouse Coordinates: 960,551 Color: 0x0xF8ECDD
 Mouse Coordinates: 960,551 Color: 0x0xF8ECDC
 Mouse Coordinates: 960,551 Color: 0x0xF8ECDD
+Mouse Coordinates: 1263,439
+ Color: 0x0x5A6168
+
+Mouse Coordinates: 1326,360
+ Color: 0x0x5E7382
+
