@@ -84,10 +84,10 @@ GetPixelColor(mouseX, mouseY){
 
 EnsureGameFocus()
 {
+    PixelGetColor, OutputVar, 1806, 355
     if(OutputVar = 0xFCDD47)
         return
 
-    PixelGetColor, OutputVar, 1806, 355
     Counter := 0
     ; Loop with a while statement, limiting it to 10 iterations
     while (OutputVar != 0xFCDD47 && Counter < 10)
