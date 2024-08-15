@@ -2,13 +2,18 @@
 FarmGoldenBlocks(repeatCount := 999999){
     LoadGoldenBlocksInShulker()
     loop, 999999 {
-        StartTime := A_TickCount
-        BuyItemV2(GoldenBlocksToDiamond_C, 1, True, 10)
-        BuyItemV2(DiamondToGoldIgnot_C, 50)
-        BuyItemV2(GoldenIgnotToEmereld_C, 20)
-        BuyItemV2(EmereledToGoldenBlock_C, 40)
+        loop, 40
+        {
+            StartTime := A_TickCount
+            BuyItemV2(GoldenBlocksToDiamond_C, 1, True, 10)
+            BuyItemV2(DiamondToGoldIgnot_C, 50)
+            BuyItemV2(GoldenIgnotToEmereld_C, 20)
+            BuyItemV2(EmereledToGoldenBlock_C, 40)
+            LoadGoldenBlocksInShulker()
+            AddFarmData("GoldenBlocksFarm", 14, (A_TickCount - StartTime) // 1000, 1)
+        }
+        ReplaceCurrentShulker()
         LoadGoldenBlocksInShulker()
-        AddFarmData("GoldenBlocksFarm", 14, (A_TickCount - StartTime) // 1000)
     }
 }
 
