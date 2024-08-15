@@ -64,6 +64,7 @@ global BrownShulker_C := { C: Shulkers_C, S: 13 }
 global BlackShulker_C := { C: Shulkers_C, S: 16 }
 
 ; -------------------- End --------------------
+/*
 global EndShop_C := [[994, 475]]
 global EndMainCompressor_C := M17(EndShop_C, [1031, 407])
 global EndCompressor_C := M17(EndMainCompressor_C, [922, 440])
@@ -82,6 +83,7 @@ global InvisPotion_C := { C: Potions_C, S: 1 }
 global Rockets1_C := { C: Elytra_C, S: 1 }
 global Rockets2_C := { C: Elytra_C, S: 2 }
 global BlueShulker_C := { C: Shulkers_C, S: 7 }
+*/
 
 ; -------------------- Compressor --------------------
 global CobbleStoneToNuggets_C := { C: Compressor_C, S: 1 }
@@ -137,6 +139,7 @@ global GoldenIngotToApples_C := { C: Food_C, S: 4 }
 */
 
 ; -------------------- Neither Compressor --------------------
+/*
 global AncorToScrap_C := { C: NeitherCompressor_C, S: 5 }
 global AncroToBrick_C4 := { C: NeitherCompressor_C, S: 11 }
 global DebrisToIgnot_C8 := { C: NeitherCompressor_C , S: 15 }
@@ -148,8 +151,10 @@ Global ObsidianToBricks_C3 := { C: NeitherCompressor_C, S: 10 }
 Global ObsidianToIgnot_C9 := { C: NeitherCompressor_C, S: 16 }
 global AnchorToBlock_C10 := { C: NeitherCompressor_C, S: 17 }
 global CryingObsidianToBlock_C := { C: NeitherCompressor_C, S: 18 }
+*/
 
 ; -------------------- Neither Decompressor --------------------
+/*
 global BrickToDebris_C2 := { C: NeitherDecompressor_C, S: 9 }
 global BrickToObsidian_C5 := { C: NeitherDecompressor_C, S: 10 }
 global BrickToAnchor_C4 := { C: NeitherDecompressor_C, S: 11}
@@ -158,8 +163,9 @@ global BlockToCryingObsidian_C11 := { C: NeitherDecompressor_C, S: 18 }
 global BrickToAnchor_C4 := { C: NeitherDecompressor_C, S: 11 }
 global ScrapToAnchor_C := { C: NeitherDecompressor_C, S: 5 }
 global ScrapToCryingObsidian_C := { C: NeitherDecompressor_C, S: 6 }
-
+*/
 ; -------------------- End Compressor --------------------
+/*
 global PurpleGlassToShard_C := { C: EndCompressor_C, S: 5 }
 global BlackGlassToShard_C := { C: EndCompressor_C, S: 6 }
 Global PurpleGlassToBud_C4 := { C: EndCompressor_C, S: 11}
@@ -167,8 +173,10 @@ Global BlackGlassToBud_C5 := { C: EndCompressor_C, S: 12}
 Global StoneBricksToClusters_C7 := { C: EndCompressor_C, S: 14}
 Global MagnetaClassToClusters_C := { C: EndCompressor_C, S: 16}
 Global PurpleGlassToBlock_C10 := { C: EndCompressor_C, S: 17}
+*/
 
 ; -------------------- End Decompressor --------------------
+/*
 Global BlockToPurpleGlass_C10 := { C: EndDecompressor_C, S: 17}
 Global BlockToBlackeGlass_C11 := { C: EndDecompressor_C, S: 18}
 Global ShardsToStoneBricks_C := { C: EndDecompressor_C, S: 2}
@@ -178,7 +186,7 @@ Global BudToStoneBricks_C1 := { C: EndDecompressor_C, S: 8}
 Global BudToMagnetaGlass_C1 := { C: EndDecompressor_C, S: 10}
 Global BudToPurpleGlass_4 := { C: EndDecompressor_C, S: 11}
 Global TestItem := {C: [[1070, 403], [921, 437], [766,549]], S: 0}
-
+*/
 ; -------------------- Imgs --------------------
 Global BrownBox_Img := "BrownBox.bmp"
 Global BlackBox_Img := "BlackBox.bmp"
