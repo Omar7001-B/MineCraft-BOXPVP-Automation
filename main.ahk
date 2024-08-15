@@ -187,6 +187,12 @@ global InventoryBottomRight := [1132, 695]
 
 TestFunction(){
 
+    PixelGetColor, OutputVar, 1806, 355
+    MyDebug("Pixel Color: " OutputVar " at 1806, 355")
+    return
+    ReplaceCurrentShulker()
+    FarmGoldenBlocks()
+
     ;AddFarmData("GoldenBlocksFarm", 16, 48)
 
     Return
