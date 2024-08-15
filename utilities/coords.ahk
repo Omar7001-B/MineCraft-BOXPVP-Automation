@@ -7,24 +7,29 @@ global Armors_C := [[888, 405]]
 global LeatherArmors_C := M17(Armors_C, [924, 441])
 global IronArmors_C := M17(Armors_C, [956, 441])
 global DiamondArmors_C := M17(Armors_C, [996, 441])
+; -------------------- Swords --------------------
+global Swords_C := [[850, 400]]
+global WoodenSword_C := M17(Swords_C , [880, 400])
+global StoneSword_C := M17(Swords_C, [925, 400])
+global IronSword_C := M17(Swords_C, [955, 400])
+global DiamondSword_C := M17(Swords_C, [990, 400])
+global NeitherSword_C := M17(NeitherShop_C, [1030, 400])
+; -------------------- PickAxes --------------------
+global PickAxes_C := [[925, 400]]
+global WoodenPickAxe_C := M17(PickAxes_C, [880, 400])
+global StonePickAxe_C := M17(PickAxes_C, [925, 400])
+global IronPickAxe_C := M17(PickAxes_C, [955, 400])
+global DiamondPickAxe_C := M17(PickAxes_C, [990, 400])
+global NeitherPickAxe_C := M17(NeitherShop_C, [1030, 400])
+; -------------------- Axes --------------------
+global Axes_C := [[998,400]]
+global WoodenAxe_C := M17(Axes_C, [880, 400])
+global StoneAxe_C := M17(Axes_C, [925, 400])
+global IronAxe_C := M17(Axes_C, [955, 400])
+global DiamondAxe_C := M17(Axes_C, [990, 400])
+global NeitherAxe_C := M17(NeitherShop_C, [1030, 400])
 
-global Swords_C := [[850, 405]]
-global WoodenSword_C := M17(Swords_C , [886, 442])
-global StoneSword_C := M17(Swords_C, [925, 430])
-global IronSword_C := M17(Swords_C, [990, 430])
-global DiamondSword_C := M17(Swords_C, [1035, 447])
-
-global PickAxes_C := [[925, 401]]
-global WoodenPickAxe_C := M17(PickAxes_C, [886, 442])
-global StonePickAxe_C := M17(PickAxes_C, [925, 430])
-global IronPickAxe_C := M17(PickAxes_C, [990, 430])
-global DiamondPickAxe_C := M17(PickAxes_C, [1035, 447])
-
-global Axes_C := [[998,401]]
-global WoodenAxe_C := M17(Axes_C, [886, 442])
-global StoneAxe_C := M17(Axes_C, [925, 430])
-global IronAxe_C := M17(Axes_C, [990, 430])
-global DiamondAxe_C := M17(Axes_C, [1035, 447])
+/*
 
 global NeitherShop_C := [[956, 478]]
 global NeitherMainCompressor_C := M17(NeitherShop_C, [1028, 407])
@@ -32,21 +37,33 @@ global NeitherCompressor_C := M17(NeitherMainCompressor_C, [922, 440])
 global NeitherDecompressor_C := M17(NeitherMainCompressor_C, [998, 437])
 
 global NeitherSword_C := M17(NeitherShop_C, [888, 401])
-global NeitherPickAxe_C := M17(NeitherShop_C, [957,403])
 global NeitherArmor_C := M17(NeitherShop_C, [921, 401])
 
+*/
+;
 global TakeItems_C := [1139, 461]
 global StoreItems_C := [1089, 408]
 global StealItems_C := [963, 409]
 global DropItems_C := [1321, 462]
 
-global Misc_C := [[1030,403]]
-global PVP_Utility_C := M17(Misc_C, [921,442])
-global Food_C := M17(Misc_C, [887,443])
-global Elytra_C := M17(Misc_C, [1033,441])
-global Potions_C := M17(Misc_C, [997,445])
-global Shulkers_C := M17(Misc_C, [961,436])
+; -------------------- Misc --------------------
+global Misc_C := [[1030,400]]
+global Food_C := M17(Misc_C, [850,400])
+global PVP_Utility_C := M17(Misc_C, [890,400])
+global Shulkers_C := M17(Misc_C, [920,400])
 
+global Potions_C := M17(Misc_C, [990,400])
+global Elytra_C := M17(Misc_C, [1030,400])
+global Blocks_C := M17(Misc_C, [1065,400])
+
+; -------------------- Shulkers --------------------
+global OrangeShulker_C := { C: Shulkers_C, S: 3 }
+global YellowShulker_C := { C: Shulkers_C, S: 6 }
+global RedShulker_C := { C: Shulkers_C, S: 9 }
+global BrownShulker_C := { C: Shulkers_C, S: 13 }
+global BlackShulker_C := { C: Shulkers_C, S: 16 }
+
+; -------------------- End --------------------
 global EndShop_C := [[994, 475]]
 global EndMainCompressor_C := M17(EndShop_C, [1031, 407])
 global EndCompressor_C := M17(EndMainCompressor_C, [922, 440])
