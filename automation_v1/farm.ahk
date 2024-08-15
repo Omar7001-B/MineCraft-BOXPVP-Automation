@@ -17,29 +17,33 @@ FarmGoldenBlocks(repeatCount := 999999){
     }
 }
 
-AddFarmData(section, amount, Time)
+AddFarmData(section, amount, Time, calls)
 {
     global FarmStore ; Ensure FarmStore is available in the function
 
     ; Check and initialize section if it doesn't exist
     IniRead, currentAmount, %FarmStore%, %section%, Amount, 0
     IniRead, currentTime, %FarmStore%, %section%, Time, 0
+    IniRead, currentCalls, %FarmStore%, %section%, Calls, 0
 
     ; Convert the values to integers in case they are not properly initialized
     currentAmount := currentAmount + 0
     currentTime := currentTime + 0
+    currentCalls := currentCalls + 0
 
     ; Update values
     newAmount := currentAmount + amount
     newTime := currentTime + Time
+    newCalls := currentCalls + calls
 
     ; Write updated values back to the INI file
     IniWrite, %newAmount%, %FarmStore%, %section%, Amount
     IniWrite, %newTime%, %FarmStore%, %section%, Time
+    IniWrite, %newCalls%, %FarmStore%, %section%, Calls
 
     ; Debug output
-    MyDebug("Added " . amount . " to " . section . " in " . Time . " seconds")
-    MyDebug("Total " . section . ": " . newAmount . " in " . newTime . " seconds`n")
+    MyDebug("Added " . amount . " to " . section . " in " . Time . " seconds" . calls . " calls")
+    MyDebug("Total " . section . ": " . newAmount . " in " . newTime . " seconds" . newCalls . " calls`n")
 }
 
 RetrieveFarmData(section)
@@ -49,12 +53,9 @@ RetrieveFarmData(section)
     ; Read current values from the INI file
     IniRead, currentAmount, %FarmStore%, %section%, Amount, 0
     IniRead, currentTime, %FarmStore%, %section%, Time, 0
+    IniRead, currentCalls, %FarmStore%, %section%, Calls, 0
 
-    ; Display the retrieved values (optional)
-    MsgBox, Amount: %currentAmount%`nTime: %currentTime%
-
-    ; Return the values
-    return {Amount: currentAmount, Time: currentTime}
+    return {Amount: currentAmount, Time: currentTime, Calls: currentCalls}
 }
 
 OpenInventory()
@@ -70,6 +71,8 @@ LoadGoldenBlocksInShulker()
     FirstShulkerCell := [817, 421]
     StoreInInv := [1080, 390]
     OpenInventory()
+    Sleep, 1000
+
     ; Open Shulker
     MouseMove, FirstInvCell[1], FirstInvCell[2]
     Click Right
