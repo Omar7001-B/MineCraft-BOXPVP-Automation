@@ -24,6 +24,8 @@
 }
 
 OpenPv1(WurstKeyBinds := True){
+    EnsureMineCraftOpen()
+    EnsureGameFocus()
     if(WurstKeyBinds) {
         Send, {NumPadDiv}
     }
