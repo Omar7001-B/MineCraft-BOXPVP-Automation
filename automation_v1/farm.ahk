@@ -112,6 +112,69 @@ LoadGoldenBlocksInShulker()
 
     ; Close the Shulker
     CloseShop()
+    Sleep, 500
+
+    OpenInventory()
+
+}
+
+ReplaceCurrentShulker()
+{
+    FirstInvCell_PV := [812, 612]
+    SecondInvCell_PV := [850, 605]
+    FirstPvCell := [813, 360]
+
+    FirsrtInvCell := [970, 556]
+
+    ; Send The Shulker To Pv1
+    OpenPv1()
+    Sleep, 1000
+
+    MouseMove, FirstInvCell_PV[1], FirstInvCell_PV[2]
+    Sleep, 100
+    Send, {Shift Down}
+    Sleep, 200
+    Click Left
+    Sleep, 200
+    Send, {Shift Up}
+    Sleep, 1000
+
+    ; Catch CompressedRow Gold from Pv1 First Cell
+    MouseMove, FirstPvCell[1], FirstPvCell[2]
+    Sleep, 100
+    Click Left
+    Sleep, 500
+
+    ; Put 3 items in the SecondInvCell_PV
+    MouseMove, SecondInvCell_PV[1], SecondInvCell_PV[2]
+    Sleep, 100
+    loop, 3
+    {
+        Click Right
+        Sleep, 100
+    }
+    Sleep, 500
+
+    ; Put the CompressedRowGold Back in Pv1 First Cell
+    MouseMove, FirstPvCell[1], FirstPvCell[2]
+    Sleep, 100
+    Click Left
+    Sleep, 500
+
+    ; Close Pv1
+    CloseShop()
+
+    ; Buy a new shulker from Shop
+    BuyItemV2(BlackShulker_C, 1)
+
+    ; Move to first Cell and send key 9, to put the shulker in the first cell
+    OpenInventory()
+    Sleep, 100
+    MouseMove, FirsrtInvCell[1], FirsrtInvCell[2]
+    Sleep, 1000
+    Send, 8
+    Sleep, 100
+    CloseShop()
 }
 
 FarmNeitherBlocks(repeatCount := 1){
