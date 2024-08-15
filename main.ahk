@@ -186,7 +186,8 @@ global InventoryTopLeft := [792, 535]
 global InventoryBottomRight := [1132, 695]
 
 TestFunction(){
-
+    ;AddFarmData("GoldenBlocksFarm", 16, 48, 1)
+    return
     PixelGetColor, OutputVar, 1806, 355
     MyDebug("Pixel Color: " OutputVar " at 1806, 355")
     return
