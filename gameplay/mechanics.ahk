@@ -243,7 +243,7 @@ EatEgaps(key){
     Send, {RButton Up}
     Send, %DisableWurstHacks%
     if(key == "6")
-        Run, %A_ScriptDir%\SoundPlayer.ahk
+        Run, %A_ScriptDir%\gameplay\SoundPlayer.ahk
 }
 
 CowebTrap(key)
