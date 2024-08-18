@@ -1,87 +1,148 @@
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 813,360
- Color: 0x0x99C9F8
+Empty Cell Found at  
+Empty Cell Found at  
+Empty Cell Found at  
+Empty Cell Found at  
+Empty Cell Found at 950 553
+Empty Cell Found at 950 553
+Empty Cell Found at 950 553
+Empty Cell Found at 950 553
+Empty Cell Found at 1202 556
+Empty Cell Found at 1165 627
+Empty Cell Found at 948 669
+Empty Cell Found at 948 669
+No Empty Cell Found
+No Empty Cell Found
+Empty Cell Found at 948 669
+Mouse Coordinates: 950,669
+ Color: 0x0x34B1F1
 
-Mouse Coordinates: 816,605
- Color: 0x0x918F8F
+Empty Cell Found at 950 669
+Empty Cell Found at 950 669
+Mouse Coordinates: 951,669
+ Color: 0x0x30B1F0
 
-Mouse Coordinates: 812,613
- Color: 0x0x8B8A8A
+Mouse Coordinates: 827,238
+ Color: 0x0x44B3F8
 
-Mouse Coordinates: 850,605
- Color: 0x0xC5C5C5
+Empty Cell Found at 951 669
+Empty Cell Found at 951 669
+Mouse Coordinates: 957,671
+ Color: 0x0x2AB0EE
 
-Mouse Coordinates: 851,605
- Color: 0x0xC5C5C5
+No Empty Cell Found
+No Empty Cell Found
+No Empty Cell Found
+No Empty Cell Found
+Game is not focused
+Game is focused
+Game is not focused
+Game is not focused
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Game is not focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Empty Cell Found at 950 553
+Empty Cell Found at 989 553
+Empty Cell Found at 915 556
+Empty Cell Found at 950 553
+Mouse Coordinates: 952,555
+ Color: 0x0xEAEAEA
+
+Empty Cell Found at 989 553
+Empty Cell Found at 1021 556
+Empty Cell Found at 912 590
+Empty Cell Found at 1058 556
+Empty Cell Found at 1094 556
+Empty Cell Found at 1130 556
+Empty Cell Found at 1165 556
+Empty Cell Found at 948 589
+Empty Cell Found at 948 589
+Empty Cell Found at 948 589
+Empty Cell Found at 912 590
+Empty Cell Found at 912 590
+Mouse Coordinates: 913,594
+ Color: 0x0xEAEAEA
+
+Mouse Coordinates: 897,428
+ Color: 0x0xC6C6C6
+
+Empty Cell Found at 912 590
+Mouse Coordinates: 914,593
+ Color: 0x0xEAEAEA
+
+Empty Cell Found at 1129 626
+Empty Cell Found at 1129 626
+Mouse Coordinates: 1132,626
+ Color: 0x0xB5A5BC
+
+Empty Cell Found at 1165 627
+Empty Cell Found at 1165 627
+Mouse Coordinates: 1165,629
+ Color: 0x0x93959F
+
+Empty Cell Found at 957 669
+Empty Cell Found at 957 669
+No Empty Cell Found
+No Empty Cell Found
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+
+Interrupted by Esc
+Restarting the script
+Material for 1 full swords
+
+Gold : 
+GoldenNuggets : [34] 34 --- 2 = 2s 0
+CompressedRowGold : [17] 17 --- 2 = 2s 0
+Golden Ignot : [27] 27 --- 4 = 22
+Golden Block : [736] 11s 32 --- 12 = 12
+GoldenBlocks - 20
+------------------
 
 Interrupted by Esc
 Restarting the script
@@ -89,6 +150,8 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
+Game is not focused
+Game is focused
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -97,833 +160,90 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
+Game is not focused
+Game is focused
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
-Mouse Coordinates: 1030,400
- Color: 0x0xBAFEFD
-
-Mouse Coordinates: 884,406
- Color: 0x0x92A3AF
-
-Mouse Coordinates: 849,405
- Color: 0x0x939BB3
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 850,397
+Mouse Coordinates: 1030,401
  Color: 0x0x898989
 
-Mouse Coordinates: 923,403
- Color: 0x0x85B6F7
-
-Mouse Coordinates: 994,404
+Mouse Coordinates: 995,399
  Color: 0x0x898989
 
-Mouse Coordinates: 1027,405
- Color: 0x0xC5B6B7
-
-Mouse Coordinates: 926,406
- Color: 0x0x8194AE
-
-Mouse Coordinates: 852,404
- Color: 0x0xA1ADCB
-
-Mouse Coordinates: 882,403
- Color: 0x0x8B9AA4
-
-Mouse Coordinates: 916,402
- Color: 0x0x809DC4
-
-Mouse Coordinates: 849,405
- Color: 0x0x939BB3
-
-Mouse Coordinates: 887,402
- Color: 0x0x96A9B6
-
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 922,404
- Color: 0x0x86A6CF
-
-Mouse Coordinates: 991,407
- Color: 0x0xFAF1E8
-
-Mouse Coordinates: 1036,398
- Color: 0x0xD8C6C6
-
-Mouse Coordinates: 1066,398
- Color: 0x0xDACDF8
-
-Mouse Coordinates: 1063,404
- Color: 0x0xB9B0CE
-
-Mouse Coordinates: 1067,401
- Color: 0x0xD4C5F8
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 971,556
- Color: 0x0x868585
-
-Mouse Coordinates: 963,551
- Color: 0x0x8A8887
-
-Mouse Coordinates: 962,544
- Color: 0x0xC5C5C5
-
-Mouse Coordinates: 963,566
- Color: 0x0x868585
-
-Mouse Coordinates: 966,561
- Color: 0x0x8B8A8A
-
-Mouse Coordinates: 886,559
- Color: 0x0x373737
-
-Mouse Coordinates: 973,547
- Color: 0x0x918F8F
-
-Mouse Coordinates: 996,549
- Color: 0x0xC5C5C5
-
-Mouse Coordinates: 982,553
- Color: 0x0x858484
-
-Mouse Coordinates: 976,552
- Color: 0x0x898786
-
-Mouse Coordinates: 985,554
- Color: 0x0xC5C5C5
-
-Mouse Coordinates: 965,556
- Color: 0x0x868585
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 816,601
- Color: 0x0x918F8F
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 814,606
- Color: 0x0x918F8F
-
-Interrupted by Esc
-Restarting the script
-Moving mouse to 814 606
-
-Color: 0x373737
-Mouse Coordinates: 966,555
- Color: 0x0x878686
-
-Mouse Coordinates: 976,555
- Color: 0x0x858484
-
-Mouse Coordinates: 980,553
- Color: 0x0x858484
-
-Mouse Coordinates: 1198,634
- Color: 0x0x0D1B2E
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 816,612
- Color: 0x0x878686
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 969,552
- Color: 0x0x918F8F
-
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Game is not focused
-Game is focused
-Game is focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Game is not focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 40 seconds1 calls
-Total GoldenBlocksFarm: 4480 in 12842 seconds320 calls
-
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 1260,668
- Color: 0x0xBCFAFF
-
-Mouse Coordinates: 1259,668
- Color: 0x0xC2FAFF
-
-Mouse Coordinates: 1101,668
- Color: 0x0xCEFCFF
-
-Interrupted by Esc
-Restarting the script
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 1101,665
- Color: 0x0xAAEBFF
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 1105,664
- Color: 0x0xA8E7FF
-
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 1106,669
- Color: 0x0xABACBE
-
-Mouse Coordinates: 1105,661
- Color: 0x0xBFEDFF
-
-Mouse Coordinates: 1105,668
- Color: 0x0xB4ECFF
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
 Interrupted by Esc
 Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
 Game is not focused
-Interrupted by Esc
-Restarting the script
 Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused, Script Wil Restart
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused, Script Wil Restart
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
 Interrupted by Esc
 Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Pixel Color: 0x011A3C at 1806, 355
-Interrupted by Esc
-Restarting the script
-Pixel Color: 0x00234F at 1806, 355
-Pixel Color: 0x002D68 at 1806, 355
-Pixel Color: 0x121757 at 1806, 355
-Pixel Color: 0x121757 at 1806, 355
-Pixel Color: 0x131759 at 1806, 355
-Pixel Color: 0x101149 at 1806, 355
-Pixel Color: 0x141854 at 1806, 355
-Pixel Color: 0x12607F at 1806, 355
-Pixel Color: 0x287882 at 1806, 355
-Pixel Color: 0x002556 at 1806, 355
-Interrupted by Esc
-Restarting the script
 Interrupted by Esc
 Restarting the script
-Pixel Color: 0x001C40 at 1806, 355
 Interrupted by Esc
 Restarting the script
-Pixel Color: 0x002555 at 1806, 355
-Pixel Color: 0x002555 at 1806, 355
-Pixel Color: 0x002555 at 1806, 355
-Pixel Color: 0x002555 at 1806, 355
-Pixel Color: 0x376061 at 1806, 355
 Interrupted by Esc
 Restarting the script
-Pixel Color: 0x1B1934 at 1806, 355
 Interrupted by Esc
 Restarting the script
-Pixel Color: 0x0E132E at 1806, 355
 Interrupted by Esc
 Restarting the script
-Pixel Color: 0xFCDD47 at 1806, 355
-Pixel Color: 0xFCDD47 at 1806, 355
-Pixel Color: 0xFCDD47 at 1806, 355
-Pixel Color: 0xFCDD47 at 1806, 355
-Pixel Color: 0x4B432B at 1806, 355
-Pixel Color: 0x4B432B at 1806, 355
-Pixel Color: 0x4B432B at 1806, 355
 Interrupted by Esc
 Restarting the script
-Pixel Color: 0xFCDD47 at 1806, 355
-Pixel Color: 0xFCDD47 at 1806, 355
-Pixel Color: 0xFCDD47 at 1806, 355
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
+Window Style: 0x17CF0000
+Window Style: 0x97000000
 Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4494 in 12883 seconds321 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4508 in 12924 seconds322 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4522 in 12965 seconds323 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4536 in 13006 seconds324 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4550 in 13047 seconds325 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4564 in 13088 seconds326 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4578 in 13129 seconds327 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4592 in 13170 seconds328 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4606 in 13211 seconds329 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4620 in 13252 seconds330 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4634 in 13293 seconds331 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4648 in 13334 seconds332 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4662 in 13375 seconds333 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4676 in 13416 seconds334 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4690 in 13457 seconds335 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4704 in 13498 seconds336 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4718 in 13539 seconds337 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4732 in 13580 seconds338 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4746 in 13621 seconds339 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4760 in 13662 seconds340 calls
-
-Game is not focused
-Game is focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused, Script Wil Restart
 Restarting the script
+Before Window Minimize Style: 0x97000000
+After Window Maximize Style: 0x15C70000
+Before Window Minimize Style: 0x97000000
+After Window Maximize Style: 0x15C70000
+Before Window Minimize Style: 0x97000000
+After Window Maximize Style: 0x96000000
+Before Window Minimize Style: 0x96000000
+After Window Maximize Style: 0x96000000
+Before Window Minimize Style: 0x16CF0000
+After Window Maximize Style: 0x16CF0000
+Before Window Minimize Style: 0x16CF0000
+After Window Maximize Style: 0x16CF0000
+Before Window Minimize Style: 0x17CF0000
+After Window Maximize Style: 0x16CF0000
+Before Window Minimize Style: 0x16CF0000
+After Window Maximize Style: 0x16CF0000
+Before Window Minimize Style: 0x16CF0000
+After Window Maximize Style: 0x16CF0000
+Before Window Minimize Style: 0x17CF0000
+After Window Maximize Style: 0x16CF0000
+Before Window Minimize Style: 0x16CF0000
+After Window Maximize Style: 0x16CF0000
+Before Window Minimize Style: 0x16CF0000
+After Window Maximize Style: 0x16CF0000
+Before Window Minimize Style: 0x17CF0000
+After Window Maximize Style: 0x16CF0000
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
-Pixel Color: 0xFCDD47 at 1806, 355
-Pixel Color: 0xFCDD47 at 1806, 355
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
-Pixel Color: 0xFCDD47 at 1806, 355
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4774 in 13703 seconds341 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4788 in 13744 seconds342 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4802 in 13785 seconds343 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4816 in 13826 seconds344 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4830 in 13867 seconds345 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4844 in 13908 seconds346 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4858 in 13949 seconds347 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4872 in 13990 seconds348 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4886 in 14031 seconds349 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4900 in 14072 seconds350 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4914 in 14113 seconds351 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4928 in 14154 seconds352 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4942 in 14195 seconds353 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4956 in 14236 seconds354 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4970 in 14277 seconds355 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4984 in 14318 seconds356 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 4998 in 14359 seconds357 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5012 in 14400 seconds358 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5026 in 14441 seconds359 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5040 in 14482 seconds360 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5054 in 14523 seconds361 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5068 in 14564 seconds362 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5082 in 14605 seconds363 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5096 in 14646 seconds364 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5110 in 14687 seconds365 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5124 in 14728 seconds366 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5138 in 14769 seconds367 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5152 in 14810 seconds368 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5166 in 14851 seconds369 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5180 in 14892 seconds370 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5194 in 14933 seconds371 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5208 in 14974 seconds372 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5222 in 15015 seconds373 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5236 in 15056 seconds374 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5250 in 15097 seconds375 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5264 in 15138 seconds376 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5278 in 15179 seconds377 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5292 in 15220 seconds378 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5306 in 15261 seconds379 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5320 in 15302 seconds380 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 40 seconds1 calls
-Total GoldenBlocksFarm: 5334 in 15342 seconds381 calls
-
-Game is not focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 41 seconds1 calls
-Total GoldenBlocksFarm: 5348 in 15383 seconds382 calls
-
-Game is not focused
-Game is focused
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -992,7 +312,6 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
-Game is not focused
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -1060,6 +379,9 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x21252A
+
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -1110,6 +432,246 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
+Interrupted by Esc
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Before Window Minimize Style: 0x17CF0000
+After Window Maximize Style: 0x96000000
+Before Window Minimize Style: 0x15CFC000
+After Window Maximize Style: 0x14CFC000
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x433030
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x181D21
+
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x2A2A2A
+
+Mouse Coordinates: 960,540
+ Color: 0x0x206D31
+
+Mouse Coordinates: 960,540
+ Color: 0x0x462E37
+
+Mouse Coordinates: 960,540
+ Color: 0x0x0A0A0E
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x2A3B61
+
+Mouse Coordinates: 960,540
+ Color: 0x0x333333
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x0F0F41
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x5A5E67
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x111B36
+
+Mouse Coordinates: 960,540
+ Color: 0x0x1F2325
+
+Moving mouse to 960 540
+
+Color: 0x1B1F21
+Moving mouse to 960 540
+
+Color: 0x31517E
+Mouse Coordinates: 960,540
+ Color: 0x0x222628
+
+Interrupted by Esc
+Restarting the script
+Moving mouse to 960 540
+
+Color: 0x1B2082
+Moving mouse to 960 540
+
+Color: 0x31517E
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x51470C
+
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x395882
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x262B85
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x395D88
+
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x724025
+
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 960,540
+ Color: 0x0x7D7D7D
+
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -1155,208 +717,672 @@ Restarting the script
 Interrupted by Esc
 Restarting the script
 Mouse Coordinates: 960,540
- Color: 0x0x0F0F43
+ Color: 0x0x402D4F
 
+Mouse Coordinates: 960,540
+ Color: 0x0x2B3941
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 819,554
+ Color: 0x0x898786
+
+Mouse Coordinates: 813,554
+ Color: 0x0x8B8989
+
+Mouse Coordinates: 813,554
+ Color: 0x0x8B8989
+
+Mouse Coordinates: 811,418
+ Color: 0x0xC5C5C5
+
+Mouse Coordinates: 1079,383
+ Color: 0x0xAFAFAF
+
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Added 14 to GoldenBlocksFarm in 42 seconds1 calls
+Total GoldenBlocksFarm: 5574 in 16012 seconds398 calls
+
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Before Window Minimize Style: 0x170B0000
+After Window Maximize Style: 0x160B0000
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 820,419
+ Color: 0x0xAAE2FF
+
+Mouse Coordinates: 852,454
+ Color: 0x0xA6F4FF
+
+Moving mouse to 852 454
+
+Color: 0x50EAFF
+Moving mouse to 852 454
+
+Color: 0x41E8FE
+Moving mouse to 852 454
+
+Color: 0x58EBFF
+Moving mouse to 852 454
+
+Color: 0x86F0FF
+Moving mouse to 852 454
+
+Color: 0x48E9FF
+Moving mouse to 852 454
+
+Color: 0x5AEBFF
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 852,421
+ Color: 0x0xFEFFFF
+
+Mouse Coordinates: 890,420
+ Color: 0x0xFEFFFF
+
+Mouse Coordinates: 921,424
+ Color: 0x0xA2F4FF
+
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Before Window Minimize Style: 0x170B0000
+After Window Maximize Style: 0x160B0000
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 84 in 30 seconds1 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 168 in 60 seconds2 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 252 in 90 seconds3 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 336 in 120 seconds4 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 420 in 150 seconds5 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 504 in 180 seconds6 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 29 seconds1 calls
+Total CompRowGoldFarm: 588 in 209 seconds7 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 672 in 239 seconds8 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 756 in 269 seconds9 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 840 in 299 seconds10 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 924 in 329 seconds11 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 1008 in 359 seconds12 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1092 in 386 seconds13 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1176 in 413 seconds14 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1260 in 440 seconds15 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 26 seconds1 calls
+Total CompRowGoldFarm: 1344 in 466 seconds16 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1428 in 493 seconds17 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1512 in 520 seconds18 calls
+
+Game is not focused
+Game is focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 26 seconds1 calls
+Total CompRowGoldFarm: 1596 in 546 seconds19 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1680 in 573 seconds20 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1764 in 600 seconds21 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1848 in 627 seconds22 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 1932 in 654 seconds23 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 2016 in 681 seconds24 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 2100 in 708 seconds25 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 2184 in 735 seconds26 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 2268 in 762 seconds27 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 2352 in 789 seconds28 calls
+
+Interrupted by Esc
+Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
 Mouse Coordinates: 960,540
- Color: 0x0x705D5D
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x307E6B
+ Color: 0x0x2F383E
 
 Mouse Coordinates: 960,540
- Color: 0x0x11114A
+ Color: 0x0x4B5864
 
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
+Game is not focused
 Game is focused
 Interrupted by Esc
 Restarting the script
+Game is not focused
 Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 39 seconds1 calls
-Total GoldenBlocksFarm: 5362 in 15422 seconds383 calls
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 2436 in 816 seconds29 calls
 
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 39 seconds1 calls
-Total GoldenBlocksFarm: 5376 in 15461 seconds384 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 39 seconds1 calls
-Total GoldenBlocksFarm: 5390 in 15500 seconds385 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 38 seconds1 calls
-Total GoldenBlocksFarm: 5404 in 15538 seconds386 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 39 seconds1 calls
-Total GoldenBlocksFarm: 5418 in 15577 seconds387 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 38 seconds1 calls
-Total GoldenBlocksFarm: 5432 in 15615 seconds388 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 39 seconds1 calls
-Total GoldenBlocksFarm: 5446 in 15654 seconds389 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 38 seconds1 calls
-Total GoldenBlocksFarm: 5460 in 15692 seconds390 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 38 seconds1 calls
-Total GoldenBlocksFarm: 5474 in 15730 seconds391 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 39 seconds1 calls
-Total GoldenBlocksFarm: 5488 in 15769 seconds392 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 38 seconds1 calls
-Total GoldenBlocksFarm: 5502 in 15807 seconds393 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 39 seconds1 calls
-Total GoldenBlocksFarm: 5516 in 15846 seconds394 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 38 seconds1 calls
-Total GoldenBlocksFarm: 5530 in 15884 seconds395 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Added 14 to GoldenBlocksFarm in 38 seconds1 calls
-Total GoldenBlocksFarm: 5544 in 15922 seconds396 calls
-
-Game is focused
-Game is focused
-Game is focused
-Game is focused
-Game is focused
+Game is not focused
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -1371,170 +1397,3 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 852,398
- Color: 0x0x000000
-
-Mouse Coordinates: 845,399
- Color: 0x0x898989
-
-Mouse Coordinates: 888,401
- Color: 0x0x353E0E
-
-Mouse Coordinates: 923,398
- Color: 0x0x202508
-
-Mouse Coordinates: 880,398
- Color: 0x0xD6EA49
-
-Mouse Coordinates: 924,396
- Color: 0x0x898989
-
-Mouse Coordinates: 956,398
- Color: 0x0x898989
-
-Mouse Coordinates: 997,397
- Color: 0x0x898989
-
-Mouse Coordinates: 991,405
- Color: 0x0x898989
-
-Mouse Coordinates: 1027,400
- Color: 0x0x898989
-
-Mouse Coordinates: 995,396
- Color: 0x0x898989
-
-Mouse Coordinates: 955,401
- Color: 0x0x898989
-
-Mouse Coordinates: 911,403
- Color: 0x0x898989
-
-Mouse Coordinates: 921,403
- Color: 0x0x898989
-
-Mouse Coordinates: 886,400
- Color: 0x0x898989
-
-Mouse Coordinates: 1030,397
- Color: 0x0x898989
-
-Mouse Coordinates: 928,397
- Color: 0x0x484848
-
-Mouse Coordinates: 893,400
- Color: 0x0x266484
-
-Mouse Coordinates: 884,402
- Color: 0x0x898989
-
-Mouse Coordinates: 881,401
- Color: 0x0x898989
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 885,400
- Color: 0x0x000000
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 996,405
- Color: 0x0x898989
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Added 16 to GoldenBlocksFarm in 48 seconds1 calls
-Total GoldenBlocksFarm: 5560 in 15970 seconds397 calls
-

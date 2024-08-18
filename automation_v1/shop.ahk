@@ -43,12 +43,34 @@ Scroll(repeatCount) {
 }
 
 BuyAllItems(path, number := 16, numberOfClicks := 1, slowItems := 0) {
-    OpenShop()
+    EnsureMineCraftOpen()
+    isShop := OpenShop()
+    while(isShop == 0) {
+        Sleep, 3000
+        EnsureMineCraftOpen()
+        isShop := OpenShop()
+    }
+
     length := path.Length()
+    counter := 0
+
     loop, % length {
-        ;Sleep, 200
+        Sleep, 100
         WaitForGoodPing()
-        MoveMouseClick(path[A_Index])
+        Point := path[A_Index]
+        Attempts := 1
+        isClicked := MoveMouseClick(Point,,,,1)
+        while(isClicked == 0){
+            Sleep, 5000
+            isClicked := MoveMouseClick(Point,,,,1)
+            Attempts := Attempts + 1
+            if(Attempts >= 3){
+                EnsureMineCraftOpen()
+                EnsureGameFocus()
+                BuyItemV2(item, repeatCount, shiftKey, countDrop, speed)
+            }
+        }
+        counter := counter + 1
     }
 
     ;Sleep, 500
@@ -56,7 +78,7 @@ BuyAllItems(path, number := 16, numberOfClicks := 1, slowItems := 0) {
     numberOfClicks2 = % numberOfClicks + 0
 
     loop, %number% {
-        WaitForGoodPing()
+        Sleep, 500
 
         dx := A_Index
 
@@ -81,11 +103,12 @@ BuyAllItems(path, number := 16, numberOfClicks := 1, slowItems := 0) {
         loop, % numberOfClicks {
             MoveMouseClick(ItemsShop_C[dx], s1, s2, s3)
             MoveMouseClick(TakeItems_C, s1, s2, s3)
-            MoveMouseClick(DropItems_C, s1, s2, s3)
+            MoveMouseClick(FirstEmptyCellShop(), s1, s2, s3)
         }
     }
 
     CloseShop()
+    Sleep, 4000
 }
 
 BuyItemV2(item, repeatCount := 1, shiftKey := True, countDrop := 0, speed := 0) {
@@ -138,7 +161,7 @@ BuyItemV2(item, repeatCount := 1, shiftKey := True, countDrop := 0, speed := 0) 
         MoveMouseClick(TakeItems_C)
         Sleep, delayAfterTake
         if(!shiftKey){
-            MoveMouseClick(DropItems_C)
+            MoveMouseClick(FirstEmptyCellShop())
             Sleep, delayAfterDrop
         }
         delayAfterIteration := 50
@@ -162,7 +185,7 @@ BuyItemV2(item, repeatCount := 1, shiftKey := True, countDrop := 0, speed := 0) 
 
     Sleep, 200
     CloseShop()
-    Sleep, 4000
+    Sleep, 200
 }
 
 TakeCurrentItem(key){

@@ -17,6 +17,25 @@ FarmGoldenBlocks(repeatCount := 999999){
     }
 }
 
+FarmCompRowGold(repeatCount := 999999)
+{
+    loop, 9999999
+    {
+        loop, 16
+        {
+            StartTime := A_TickCount
+            LoadCompRowGold()
+            BuyItemV2(CompressedRowGoldToDiamond_C, 10)
+            BuyItemV2(DiamondToGoldNuggets_C, 40)
+            BuyItemV2(GoldenNuggetsToEmereld_C, 40)
+            BuyItemV2(EmereledToCompressedRowGold_C, 20)
+            AddFarmData("CompRowGoldFarm", 84, (A_TickCount - StartTime) // 1000, 1)
+        }
+        ReplaceCurrentShulker()
+    }
+
+}
+
 AddFarmData(section, amount, Time, calls)
 {
     global FarmStore ; Ensure FarmStore is available in the function
@@ -65,9 +84,54 @@ OpenInventory()
     Sleep, 200
 }
 
+LoadCompRowGold()
+{
+    FirstInvCell := [812, 555]
+
+    ShulkerCell := [[817, 421], [852,421], [890,420], [921,424]]
+
+    StoreInInv := [1080, 390]
+    OpenInventory()
+    Sleep, 1000
+
+    ; Open Shulker
+    MouseMove, FirstInvCell[1], FirstInvCell[2]
+    Click Right
+    Sleep, 1000
+
+    ; Store Everything In Shulker
+    MouseMove, StoreInInv[1], StoreInInv[2]
+    Click Left
+
+    Sleep, 2000
+
+    Length := ShulkerCell.Length()
+    loop, %Length%
+    {
+        MouseMove, ShulkerCell[A_Index][1], ShulkerCell[A_Index][2]
+        Click Right
+        Sleep, 500
+        Send, {Shift Down}
+        Sleep, 200
+        Click Left
+        Sleep, 200
+        Send, {Shift Up}
+        Sleep, 200
+        Click Left
+        Sleep, 200
+    }
+
+    ; Close the Shulker
+    CloseShop()
+    Sleep, 500
+
+    OpenInventory()
+
+}
+
 LoadGoldenBlocksInShulker()
 {
-    FirstInvCell := [986, 556]
+    FirstInvCell := [812, 555]
     FirstShulkerCell := [817, 421]
     StoreInInv := [1080, 390]
     OpenInventory()
@@ -165,7 +229,7 @@ ReplaceCurrentShulker()
     CloseShop()
 
     ; Buy a new shulker from Shop
-    BuyItemV2(BlackShulker_C, 1)
+    BuyItemV2(BlackShulker_C, 1, 0)
 
     ; Move to first Cell and send key 9, to put the shulker in the first cell
     OpenInventory()
@@ -545,21 +609,26 @@ ShowMaterialForFullArmors(num := 1){
 
     MsgBox, % stringOutput
     FileAppend, %stringOutput%`n, LoggerFile.txt
-
 }
+
+/*
+
+WoodenSword -> 21 Golden Nuggets --> 6 clicks
+StoneSword -> 13 Golden Nuggets, 7 CompressedRowGold --> 6 clicks
+IronSword -> 10 CompressedRowGold, 14 IronIgnot --> 6 clicks
+DiamondSword -> 13 IrongIgnot, 12 GoldenBlocks --> 6 clicks
+FullNetheierSword -> 724Golden Blocks --> 20 clicks
+
+*/
 
 ShowMaterialForFullSword(num := 1){
     Gold := []
-    ;Gold.Push({name: "GoldenNuggets", count: 34})
-    ;Gold.Push({name: "CompressedRowGold", count: 11})
-    ;Gold.Push({name: "Golden Ignot", count: 13})
-    ;Gold.Push({name: "Golden Block", count: 12})
-
     Gold.Push({name: "GoldenNuggets", count: 34, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 8, 64, num * 34)})
-    Gold.Push({name: "CompressedRowGold", count: 11, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 8, 64, num * 11)})
-    Gold.Push({name: "Golden Ignot", count: 13, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 2, 5.3333333, num * 13)})
-    Gold.Push({name: "Golden Block", count: 12, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(1, 1, 1, num * 12)})
+    Gold.Push({name: "CompressedRowGold", count: 17, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 8, 64, num * 11)})
+    Gold.Push({name: "Golden Ignot", count: 27, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 2, 5.3333333, num * 13)})
+    Gold.Push({name: "Golden Block", count: 736, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(1, 1, 1, num * 12)})
 
+    /*
     Neither := []
     ;Neither.Push({name: "Scrap", count: 8})
     ;Neither.Push({name: "Brick", count: 2})
@@ -582,14 +651,17 @@ ShowMaterialForFullSword(num := 1){
     End.Push({name: "Clusters", count: 2, mainInput: "EndBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 1, 5.625, num * 2)})
     End.Push({name: "Amethyst", count: 1, mainInput: "EndBlocks", CeiledInput: CalcInputNeededToMakeAmount(1, 1, 1, num * 6)})
 
+    stringOutput .= "Neither : " . "`n" . ShowMaterialsInStacks(Neither, num) . "------------------`n"
+    stringOutput .= "End : " . "`n" . ShowMaterialsInStacks(End, num) . "------------------`n"
+    */
+
     stringOutput := ""
     stringOutput := "Material for " . num . " full swords" . "`n`n"
     stringOutput .= "Gold : " . "`n" . ShowMaterialsInStacks(Gold, num) . "------------------`n"
-    stringOutput .= "Neither : " . "`n" . ShowMaterialsInStacks(Neither, num) . "------------------`n"
-    stringOutput .= "End : " . "`n" . ShowMaterialsInStacks(End, num) . "------------------`n"
 
-    MsgBox, % stringOutput
+    ;MsgBox, % stringOutput
     FileAppend, %stringOutput%`n, LoggerFile.txt
+    MyDebug(stringOutput)
 }
 
 ; ---------------------------------------------
@@ -612,8 +684,9 @@ BuyNumberOfEndPickAxe(num := 9){
 BuyNumberOfDiamondSword(num := 9){
     BuyAllItems(WoodenSword_C, 6)
     BuyAllItems(StoneSword_C, 6)
-    BuyAllItems(IronSword_C, 1)
+    BuyAllItems(IronSword_C, 6)
     BuyAllItems(DiamondSword_C, 6)
+    BuyAllItems(NeitherSword_C, 20)
 }
 
 BuyNumberOfNetherSword(num := 9){

@@ -24,6 +24,36 @@ global DefualtDelayAfter := 2
 Global GlobalClicks := 0
 Global TargetFunction
 
+FirstEmptyCellShop() ; Empty Cell While Buying
+{
+    InventoryCells :=
+    (Join
+    [
+        [[915, 556], [952, 555], [989, 553], [1021, 556], [1058, 556], [1094, 556], [1130, 556], [1165, 556], [1202, 556]],
+        [[914, 593], [948, 589], [984, 589], [1019, 589], [1057, 586], [1092, 588], [1128, 589], [1165, 589], [1199, 589]],
+        [[912, 624], [952, 626], [986, 625], [1022, 626], [1059, 627], [1095, 626], [1132, 626], [1165, 629], [1200, 627]],
+        [[917, 669], [957, 669], [989, 669], [1023, 669], [1058, 668], [1094, 669], [1130, 671], [1165, 669], [1201, 670]]
+    ]
+    )
+
+    EmptyCellColor := 0x8b8b8b
+    EmptyCellColorMouse := 0xC5C5C5
+
+    for i, Row in InventoryCells {
+        for j, Cell in Row {
+            X := Cell[1]
+            Y := Cell[2]
+            CurrentColor := GetPixel(X, Y)
+            if (CurrentColor = EmptyCellColor || CurrentColor = EmptyCellColorMouse) {
+                return [X, Y]
+            }
+        }
+    }
+
+    MyDebug("No Empty Cell Found")
+    return [0, 0]
+}
+
 ShowMsgOnMouse(msg, hideAfter)
 {
     MouseGetPos, x, y ; Get the current mouse position

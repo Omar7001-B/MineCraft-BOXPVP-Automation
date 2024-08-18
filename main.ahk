@@ -32,7 +32,7 @@ CapsLock::TestFunction()
     ;1::GreedyPath(GoldenBlocksToGoldenIngot_P2, 3 * 64)
     ;;1::TestNethFarmV2()
     ; -------------------- Shop And Farming Functions --------------------
-    F2::FunctionRunner("FarmGoldenBlocks")
+    F2::FunctionRunner("FarmCompRowGold")
     ^F2::FunctionRunner("FarmGoldenBlocksV3")
 
     F3::FunctionRunner("FarmNeitherBlocks")
@@ -83,7 +83,7 @@ CapsLock::TestFunction()
 
     ~q & LButton::SwordCoolDown("LButton")
     ~g & LButton::SwordCoolDown("LButton")
-    ~`::JumpV3()
+    ;~`::JumpV3()
 
     ~Space & LButton::SwordCoolDown("LButton")
 
@@ -186,7 +186,34 @@ global InventoryTopLeft := [792, 535]
 global InventoryBottomRight := [1132, 695]
 
 TestFunction(){
-    ;AddFarmData("GoldenBlocksFarm", 16, 48, 1)
+    ; get window style and debug it
+
+    ;WinSet, Style, 0x17CF0000, ahk_id %hwnd%
+    ;WinSet, Style, 0x17CF0000, ahk_id %hwnd%
+    ; Get the win style and show it in msg box
+    WinGet, hwnd, ID, A
+    WinGet, style, Style, ahk_id %hwnd%
+    MyDebug("Before Window Minimize Style: " style)
+    WinRestore, A
+
+    WinGet, hwnd, ID, A
+    WinGet, style, Style, ahk_id %hwnd%
+    MyDebug("After Window Maximize Style: " style)
+
+    return
+
+    EmptyCell := FirstEmptyCellShop()
+    if(EmptyCell[1] == 0 && EmptyCell[2] == 0)
+    {
+        MyDebug("No Empty Cell Found")
+        return
+    }
+    else
+    {
+        MyDebug("Empty Cell Found at " EmptyCell[1] " " EmptyCell[2])
+        MouseMove, EmptyCell[1], EmptyCell[2], 0
+    }
+
     return
     PixelGetColor, OutputVar, 1806, 355
     MyDebug("Pixel Color: " OutputVar " at 1806, 355")

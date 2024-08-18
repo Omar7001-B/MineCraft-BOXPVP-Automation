@@ -38,6 +38,7 @@
     return Count
 }
 
+
 GetPixel(x, y) {
     PixelGetColor, Color, % x, % y
     return Color

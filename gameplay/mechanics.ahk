@@ -147,7 +147,7 @@ SetTrigger(key, action) {
 
 ReleaseTrigger(key) {
     if(GetKeyState("XButton1", "P") || GetKeyState("XButton2", "P")){
-        Send, {End}
+        Send, {End} 
     }
     else {
         Send, {key up}
