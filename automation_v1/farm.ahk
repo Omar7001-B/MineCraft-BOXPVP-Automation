@@ -19,17 +19,18 @@ FarmGoldenBlocks(repeatCount := 999999){
 
 FarmCompRowGold(repeatCount := 999999)
 {
+    ReplaceCurrentShulker()
     loop, 9999999
     {
-        loop, 16
+        loop, 10
         {
             StartTime := A_TickCount
             LoadCompRowGold()
             BuyItemV2(CompressedRowGoldToDiamond_C, 10)
             BuyItemV2(DiamondToGoldNuggets_C, 40)
             BuyItemV2(GoldenNuggetsToEmereld_C, 40)
-            BuyItemV2(EmereledToCompressedRowGold_C, 20)
-            AddFarmData("CompRowGoldFarm", 84, (A_TickCount - StartTime) // 1000, 1)
+            BuyItemV2(EmereledToCompressedRowGold_C, 40)
+            AddFarmData("CompRowGoldFarm", 105, (A_TickCount - StartTime) // 1000, 1)
         }
         ReplaceCurrentShulker()
     }
@@ -109,7 +110,11 @@ LoadCompRowGold()
     loop, %Length%
     {
         MouseMove, ShulkerCell[A_Index][1], ShulkerCell[A_Index][2]
-        Click Right
+        loop, 10
+        {
+            Click Right
+            Sleep, 100
+        }
         Sleep, 500
         Send, {Shift Down}
         Sleep, 200
@@ -203,42 +208,11 @@ ReplaceCurrentShulker()
     Send, {Shift Up}
     Sleep, 1000
 
-    ; Catch CompressedRow Gold from Pv1 First Cell
-    MouseMove, FirstPvCell[1], FirstPvCell[2]
-    Sleep, 100
-    Click Left
-    Sleep, 500
-
-    ; Put 3 items in the SecondInvCell_PV
-    MouseMove, SecondInvCell_PV[1], SecondInvCell_PV[2]
-    Sleep, 100
-    loop, 3
-    {
-        Click Right
-        Sleep, 100
-    }
-    Sleep, 500
-
-    ; Put the CompressedRowGold Back in Pv1 First Cell
-    MouseMove, FirstPvCell[1], FirstPvCell[2]
-    Sleep, 100
-    Click Left
-    Sleep, 500
-
     ; Close Pv1
     CloseShop()
 
     ; Buy a new shulker from Shop
     BuyItemV2(BlackShulker_C, 1, 0)
-
-    ; Move to first Cell and send key 9, to put the shulker in the first cell
-    OpenInventory()
-    Sleep, 100
-    MouseMove, FirsrtInvCell[1], FirsrtInvCell[2]
-    Sleep, 1000
-    Send, 8
-    Sleep, 100
-    CloseShop()
 }
 
 FarmNeitherBlocks(repeatCount := 1){

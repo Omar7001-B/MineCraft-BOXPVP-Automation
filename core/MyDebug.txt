@@ -1,44 +1,5 @@
-Empty Cell Found at  
-Empty Cell Found at  
-Empty Cell Found at  
-Empty Cell Found at  
-Empty Cell Found at 950 553
-Empty Cell Found at 950 553
-Empty Cell Found at 950 553
-Empty Cell Found at 950 553
-Empty Cell Found at 1202 556
-Empty Cell Found at 1165 627
-Empty Cell Found at 948 669
-Empty Cell Found at 948 669
-No Empty Cell Found
-No Empty Cell Found
-Empty Cell Found at 948 669
-Mouse Coordinates: 950,669
- Color: 0x0x34B1F1
-
-Empty Cell Found at 950 669
-Empty Cell Found at 950 669
-Mouse Coordinates: 951,669
- Color: 0x0x30B1F0
-
-Mouse Coordinates: 827,238
- Color: 0x0x44B3F8
-
-Empty Cell Found at 951 669
-Empty Cell Found at 951 669
-Mouse Coordinates: 957,671
- Color: 0x0x2AB0EE
-
-No Empty Cell Found
-No Empty Cell Found
-No Empty Cell Found
-No Empty Cell Found
-Game is not focused
-Game is focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is focused
+Interrupted by Esc
+Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -53,247 +14,236 @@ Interrupted by Esc
 Restarting the script
 Game is not focused
 Game is focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 10920 in 3536 seconds130 calls
+
 Game is not focused
 Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11004 in 3563 seconds131 calls
+
 Game is not focused
 Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Empty Cell Found at 950 553
-Empty Cell Found at 989 553
-Empty Cell Found at 915 556
-Empty Cell Found at 950 553
-Mouse Coordinates: 952,555
- Color: 0x0xEAEAEA
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11088 in 3590 seconds132 calls
 
-Empty Cell Found at 989 553
-Empty Cell Found at 1021 556
-Empty Cell Found at 912 590
-Empty Cell Found at 1058 556
-Empty Cell Found at 1094 556
-Empty Cell Found at 1130 556
-Empty Cell Found at 1165 556
-Empty Cell Found at 948 589
-Empty Cell Found at 948 589
-Empty Cell Found at 948 589
-Empty Cell Found at 912 590
-Empty Cell Found at 912 590
-Mouse Coordinates: 913,594
- Color: 0x0xEAEAEA
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 26 seconds1 calls
+Total CompRowGoldFarm: 11172 in 3616 seconds133 calls
 
-Mouse Coordinates: 897,428
- Color: 0x0xC6C6C6
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11256 in 3643 seconds134 calls
 
-Empty Cell Found at 912 590
-Mouse Coordinates: 914,593
- Color: 0x0xEAEAEA
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11340 in 3670 seconds135 calls
 
-Empty Cell Found at 1129 626
-Empty Cell Found at 1129 626
-Mouse Coordinates: 1132,626
- Color: 0x0xB5A5BC
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11424 in 3697 seconds136 calls
 
-Empty Cell Found at 1165 627
-Empty Cell Found at 1165 627
-Mouse Coordinates: 1165,629
- Color: 0x0x93959F
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11508 in 3724 seconds137 calls
 
-Empty Cell Found at 957 669
-Empty Cell Found at 957 669
-No Empty Cell Found
-No Empty Cell Found
-Interrupted by Esc
-Restarting the script
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11592 in 3751 seconds138 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11676 in 3778 seconds139 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11760 in 3805 seconds140 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11844 in 3832 seconds141 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 11928 in 3859 seconds142 calls
+
 Game is not focused
 Game is focused
 Game is not focused
 Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-
-Interrupted by Esc
-Restarting the script
-Material for 1 full swords
-
-Gold : 
-GoldenNuggets : [34] 34 --- 2 = 2s 0
-CompressedRowGold : [17] 17 --- 2 = 2s 0
-Golden Ignot : [27] 27 --- 4 = 22
-Golden Block : [736] 11s 32 --- 12 = 12
-GoldenBlocks - 20
-------------------
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
 Game is not focused
 Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
+Added 84 to CompRowGoldFarm in 37 seconds1 calls
+Total CompRowGoldFarm: 12012 in 3896 seconds143 calls
+
 Game is not focused
 Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 1030,401
- Color: 0x0x898989
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12096 in 3923 seconds144 calls
 
-Mouse Coordinates: 995,399
- Color: 0x0x898989
-
-Interrupted by Esc
-Restarting the script
 Game is not focused
 Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Window Style: 0x17CF0000
-Window Style: 0x97000000
-Interrupted by Esc
-Restarting the script
-Before Window Minimize Style: 0x97000000
-After Window Maximize Style: 0x15C70000
-Before Window Minimize Style: 0x97000000
-After Window Maximize Style: 0x15C70000
-Before Window Minimize Style: 0x97000000
-After Window Maximize Style: 0x96000000
-Before Window Minimize Style: 0x96000000
-After Window Maximize Style: 0x96000000
-Before Window Minimize Style: 0x16CF0000
-After Window Maximize Style: 0x16CF0000
-Before Window Minimize Style: 0x16CF0000
-After Window Maximize Style: 0x16CF0000
-Before Window Minimize Style: 0x17CF0000
-After Window Maximize Style: 0x16CF0000
-Before Window Minimize Style: 0x16CF0000
-After Window Maximize Style: 0x16CF0000
-Before Window Minimize Style: 0x16CF0000
-After Window Maximize Style: 0x16CF0000
-Before Window Minimize Style: 0x17CF0000
-After Window Maximize Style: 0x16CF0000
-Before Window Minimize Style: 0x16CF0000
-After Window Maximize Style: 0x16CF0000
-Before Window Minimize Style: 0x16CF0000
-After Window Maximize Style: 0x16CF0000
-Before Window Minimize Style: 0x17CF0000
-After Window Maximize Style: 0x16CF0000
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12180 in 3950 seconds145 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12264 in 3977 seconds146 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12348 in 4004 seconds147 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12432 in 4031 seconds148 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12516 in 4058 seconds149 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12600 in 4085 seconds150 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12684 in 4112 seconds151 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12768 in 4139 seconds152 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12852 in 4166 seconds153 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 12936 in 4193 seconds154 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13020 in 4220 seconds155 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 26 seconds1 calls
+Total CompRowGoldFarm: 13104 in 4246 seconds156 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13188 in 4273 seconds157 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13272 in 4300 seconds158 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 26 seconds1 calls
+Total CompRowGoldFarm: 13356 in 4326 seconds159 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13440 in 4353 seconds160 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13524 in 4380 seconds161 calls
+
+Game is not focused
+Game is not focused
+Game is focused
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13608 in 4407 seconds162 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13692 in 4434 seconds163 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13776 in 4461 seconds164 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 13860 in 4488 seconds165 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 26 seconds1 calls
+Total CompRowGoldFarm: 13944 in 4514 seconds166 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 14028 in 4541 seconds167 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 14112 in 4568 seconds168 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 14196 in 4595 seconds169 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 14280 in 4622 seconds170 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 14364 in 4649 seconds171 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 14448 in 4676 seconds172 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 14532 in 4703 seconds173 calls
+
+Game is not focused
+Game is focused
+Added 84 to CompRowGoldFarm in 27 seconds1 calls
+Total CompRowGoldFarm: 14616 in 4730 seconds174 calls
+
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -373,15 +323,17 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
+Game is not focused
+Game is not focused
+Game is not focused
+Game is not focused
+Game is not focused
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x21252A
-
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -396,12 +348,20 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
+Game is not focused
+Game is not focused
+Game is not focused
+Game is not focused
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
+Game is not focused
+Game is not focused
+Game is not focused
+Game is not focused
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc
@@ -410,979 +370,1039 @@ Interrupted by Esc
 Restarting the script
 Interrupted by Esc
 Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Before Window Minimize Style: 0x17CF0000
-After Window Maximize Style: 0x96000000
-Before Window Minimize Style: 0x15CFC000
-After Window Maximize Style: 0x14CFC000
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x433030
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x181D21
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x2A2A2A
-
-Mouse Coordinates: 960,540
- Color: 0x0x206D31
-
-Mouse Coordinates: 960,540
- Color: 0x0x462E37
-
-Mouse Coordinates: 960,540
- Color: 0x0x0A0A0E
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x2A3B61
-
-Mouse Coordinates: 960,540
- Color: 0x0x333333
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x0F0F41
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x5A5E67
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x111B36
-
-Mouse Coordinates: 960,540
- Color: 0x0x1F2325
-
-Moving mouse to 960 540
-
-Color: 0x1B1F21
-Moving mouse to 960 540
-
-Color: 0x31517E
-Mouse Coordinates: 960,540
- Color: 0x0x222628
-
-Interrupted by Esc
-Restarting the script
-Moving mouse to 960 540
-
-Color: 0x1B2082
-Moving mouse to 960 540
-
-Color: 0x31517E
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x51470C
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x395882
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x262B85
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x395D88
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x724025
-
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x7D7D7D
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x402D4F
-
-Mouse Coordinates: 960,540
- Color: 0x0x2B3941
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 819,554
- Color: 0x0x898786
-
-Mouse Coordinates: 813,554
- Color: 0x0x8B8989
-
-Mouse Coordinates: 813,554
- Color: 0x0x8B8989
-
-Mouse Coordinates: 811,418
- Color: 0x0xC5C5C5
-
-Mouse Coordinates: 1079,383
- Color: 0x0xAFAFAF
-
-Interrupted by Esc
-Restarting the script
+Shop opened Successfully!
 Game is not focused
 Game is focused
-Added 14 to GoldenBlocksFarm in 42 seconds1 calls
-Total GoldenBlocksFarm: 5574 in 16012 seconds398 calls
-
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Before Window Minimize Style: 0x170B0000
-After Window Maximize Style: 0x160B0000
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 820,419
- Color: 0x0xAAE2FF
-
-Mouse Coordinates: 852,454
- Color: 0x0xA6F4FF
-
-Moving mouse to 852 454
-
-Color: 0x50EAFF
-Moving mouse to 852 454
-
-Color: 0x41E8FE
-Moving mouse to 852 454
-
-Color: 0x58EBFF
-Moving mouse to 852 454
-
-Color: 0x86F0FF
-Moving mouse to 852 454
-
-Color: 0x48E9FF
-Moving mouse to 852 454
-
-Color: 0x5AEBFF
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 852,421
- Color: 0x0xFEFFFF
-
-Mouse Coordinates: 890,420
- Color: 0x0xFEFFFF
-
-Mouse Coordinates: 921,424
- Color: 0x0xA2F4FF
-
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Before Window Minimize Style: 0x170B0000
-After Window Maximize Style: 0x160B0000
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 84 in 30 seconds1 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 168 in 60 seconds2 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 252 in 90 seconds3 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 336 in 120 seconds4 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 420 in 150 seconds5 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 504 in 180 seconds6 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 29 seconds1 calls
-Total CompRowGoldFarm: 588 in 209 seconds7 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 672 in 239 seconds8 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 756 in 269 seconds9 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 840 in 299 seconds10 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 924 in 329 seconds11 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 1008 in 359 seconds12 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
 Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1092 in 386 seconds13 calls
+Total CompRowGoldFarm: 14700 in 4757 seconds175 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1176 in 413 seconds14 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1260 in 440 seconds15 calls
-
-Game is not focused
-Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
 Added 84 to CompRowGoldFarm in 26 seconds1 calls
-Total CompRowGoldFarm: 1344 in 466 seconds16 calls
+Total CompRowGoldFarm: 14784 in 4783 seconds176 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1428 in 493 seconds17 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1512 in 520 seconds18 calls
-
-Game is not focused
-Game is focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
 Added 84 to CompRowGoldFarm in 26 seconds1 calls
-Total CompRowGoldFarm: 1596 in 546 seconds19 calls
+Total CompRowGoldFarm: 14868 in 4809 seconds177 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Mouse Coordinates: 961,417
+ Color: 0x0xB0F6FF
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 14952 in 4837 seconds178 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15036 in 4865 seconds179 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1680 in 573 seconds20 calls
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15120 in 4893 seconds180 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1764 in 600 seconds21 calls
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15204 in 4921 seconds181 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1848 in 627 seconds22 calls
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15288 in 4949 seconds182 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 1932 in 654 seconds23 calls
+Shop opened Successfully!
+Ensuring Minecraft is open, we're currently in 
+Window Handle: 
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 15372 in 4980 seconds183 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 2016 in 681 seconds24 calls
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15456 in 5008 seconds184 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 2100 in 708 seconds25 calls
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15540 in 5036 seconds185 calls
 
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 2184 in 735 seconds26 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 2268 in 762 seconds27 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 2352 in 789 seconds28 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 960,540
- Color: 0x0x2F383E
-
-Mouse Coordinates: 960,540
- Color: 0x0x4B5864
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15624 in 5064 seconds186 calls
 
 Game is not focused
 Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 84 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15708 in 5092 seconds187 calls
+
 Interrupted by Esc
 Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
 Game is not focused
 Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 2436 in 816 seconds29 calls
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15813 in 5120 seconds188 calls
 
 Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 15918 in 5148 seconds189 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Ensuring Minecraft is open, we're currently in 
+Window Handle: 
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 16023 in 5178 seconds190 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 16128 in 5206 seconds191 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 16233 in 5234 seconds192 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 16338 in 5262 seconds193 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 16443 in 5290 seconds194 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Ensuring Minecraft is open, we're currently in 
+Window Handle: 
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 36 seconds1 calls
+Total CompRowGoldFarm: 16548 in 5326 seconds195 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 16653 in 5354 seconds196 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 29 seconds1 calls
+Total CompRowGoldFarm: 16758 in 5383 seconds197 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 16863 in 5411 seconds198 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 16968 in 5439 seconds199 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 17073 in 5467 seconds200 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 17178 in 5495 seconds201 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Ensuring Minecraft is open, we're currently in 
+Window Handle: 
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 17283 in 5525 seconds202 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 17388 in 5553 seconds203 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 17493 in 5581 seconds204 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 17598 in 5609 seconds205 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 17703 in 5637 seconds206 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 17808 in 5665 seconds207 calls
+
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 17913 in 5693 seconds208 calls
+
+Game is not focused
+
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 29 seconds1 calls
+Total CompRowGoldFarm: 18018 in 5722 seconds209 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 28 seconds1 calls
+Total CompRowGoldFarm: 18123 in 5750 seconds210 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the scriptInterrupted by EscInterrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 29 seconds1 calls
+Total CompRowGoldFarm: 18228 in 5779 seconds211 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 29 seconds1 calls
+Total CompRowGoldFarm: 18333 in 5808 seconds212 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 18438 in 5838 seconds213 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 18543 in 5868 seconds214 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 18648 in 5898 seconds215 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 30 seconds1 calls
+Total CompRowGoldFarm: 18753 in 5928 seconds216 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 32 seconds1 calls
+Total CompRowGoldFarm: 18858 in 5960 seconds217 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 18963 in 5991 seconds218 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 32 seconds1 calls
+Total CompRowGoldFarm: 19068 in 6023 seconds219 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 19173 in 6054 seconds220 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 32 seconds1 calls
+Total CompRowGoldFarm: 19278 in 6086 seconds221 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Ensuring Minecraft is open, we're currently in 
+Window Handle: 
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 34 seconds1 calls
+Total CompRowGoldFarm: 19383 in 6120 seconds222 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 19488 in 6151 seconds223 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 19593 in 6182 seconds224 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 19698 in 6213 seconds225 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 19803 in 6244 seconds226 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 19908 in 6275 seconds227 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 32 seconds1 calls
+Total CompRowGoldFarm: 20013 in 6307 seconds228 calls
+
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 32 seconds1 calls
+Total CompRowGoldFarm: 20118 in 6339 seconds229 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 20223 in 6370 seconds230 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Ensuring Minecraft is open, we're currently in 
+Window Handle: 
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 34 seconds1 calls
+Total CompRowGoldFarm: 20328 in 6404 seconds231 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 20433 in 6435 seconds232 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 20538 in 6466 seconds233 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 20643 in 6497 seconds234 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 20748 in 6528 seconds235 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 32 seconds1 calls
+Total CompRowGoldFarm: 20853 in 6560 seconds236 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 20958 in 6591 seconds237 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 21063 in 6622 seconds238 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 21168 in 6653 seconds239 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 21273 in 6684 seconds240 calls
+
+Ensuring Minecraft is open, we're currently in main.ahk - BOXPVP_Automation - Visual Studio Code [Administrator]
+Window Handle: 0x10b78
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 32 seconds1 calls
+Total CompRowGoldFarm: 21378 in 6716 seconds241 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 21483 in 6747 seconds242 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Shop opened Successfully!
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 21588 in 6778 seconds243 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 21693 in 6809 seconds244 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 21798 in 6840 seconds245 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 32 seconds1 calls
+Total CompRowGoldFarm: 21903 in 6872 seconds246 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 22008 in 6903 seconds247 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 22113 in 6934 seconds248 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 22218 in 6965 seconds249 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 31 seconds1 calls
+Total CompRowGoldFarm: 22323 in 6996 seconds250 calls
+
+Game is not focused
+Game is focused
+Shop opened Successfully!
+Shop opened Successfully!
+Shop opened Successfully!
+Ensuring Minecraft is open, we're currently in 
+Window Handle: 
+Shop opened Successfully!
+Added 105 to CompRowGoldFarm in 34 seconds1 calls
+Total CompRowGoldFarm: 22428 in 7030 seconds251 calls
+
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
+Interrupted by Esc
+Restarting the script
 Interrupted by Esc
 Restarting the script
 Interrupted by Esc

@@ -19,10 +19,12 @@
     PixelGetColor, color2, 960, 540
     if(color1 == color2)
     {
+        MyDebug("Shop not opened")
         return 0
     }
     Else
     {
+        MyDebug("Shop opened Successfully!")
         return 1
     }
 }
