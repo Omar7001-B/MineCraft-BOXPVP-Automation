@@ -186,6 +186,15 @@ global InventoryTopLeft := [792, 535]
 global InventoryBottomRight := [1132, 695]
 
 TestFunction(){
+    ;return
+    ;CompressPVToShulker()
+    ;return
+    ;ConvertShulkerCompToShulkerGoldenBlocks()
+    ;return
+    ConvertShulkerCompToShulkerGoldenIgnot()
+    Return
+    BuyNumberOfDiamondPickAxe(2)
+    return
     ; get window style and debug it
 
     ;WinSet, Style, 0x17CF0000, ahk_id %hwnd%
@@ -218,8 +227,8 @@ TestFunction(){
     PixelGetColor, OutputVar, 1806, 355
     MyDebug("Pixel Color: " OutputVar " at 1806, 355")
     return
-    ReplaceCurrentShulker()
-    FarmGoldenBlocks()
+    ;ReplaceCurrentShulker()
+    ;FarmGoldenBlocks()
 
     ;AddFarmData("GoldenBlocksFarm", 16, 48)
 

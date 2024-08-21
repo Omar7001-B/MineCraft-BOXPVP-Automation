@@ -1,6 +1,16 @@
 ﻿global FarmStore := "data/Farms.ini"
+
+global PvFirstRow := [[818,366], [853,366], [890,366], [920,366], [960, 366], [990,366], [1030,366], [1060,366], [1090, 366]]
+global PvSecond := [[818, 400], [853,400], [890,400], [920,400], [960, 400], [990,400], [1030,400], [1060,400], [1090, 400]]
+global PvThirdRow := [[818, 435], [853,435], [890,435], [920,435], [960, 435], [990,435], [1030,435], [1060,435], [1090, 435]]
+global PvFourthRow := [[818, 475], [853,475], [890,475], [920,475], [960, 475], [990,475], [1030,475], [1060,475], [1090, 475]]
+global PvFifthRow := [[818, 510], [853,510], [890,510], [920,510], [960, 510], [990,510], [1030,510], [1060,510], [1090, 510]]
+global PvSixthRow := [[818, 545], [853,545], [890,545], [920,545], [960, 545], [990,545], [1030,545], [1060,545], [1101,545]]
+
+global PvFullRows := [PvFirstRow, PvSecond, PvThirdRow, PvFourthRow, PvFifthRow, PvSixthRow]
+
 FarmGoldenBlocks(repeatCount := 999999){
-    LoadGoldenBlocksInShulker()
+    ;LoadGoldenBlocksInShulker()
     loop, 999999 {
         loop, 40
         {
@@ -9,32 +19,51 @@ FarmGoldenBlocks(repeatCount := 999999){
             BuyItemV2(DiamondToGoldIgnot_C, 50)
             BuyItemV2(GoldenIgnotToEmereld_C, 20)
             BuyItemV2(EmereledToGoldenBlock_C, 40)
-            LoadGoldenBlocksInShulker()
+            ;LoadGoldenBlocksInShulker()
             AddFarmData("GoldenBlocksFarm", 14, (A_TickCount - StartTime) // 1000, 1)
         }
-        ReplaceCurrentShulker()
-        LoadGoldenBlocksInShulker()
+        ;LoadGoldenBlocksInShulker()
     }
 }
-
 FarmCompRowGold(repeatCount := 999999)
 {
-    ReplaceCurrentShulker()
     loop, 9999999
     {
-        loop, 10
+        loop, 16
         {
             StartTime := A_TickCount
-            LoadCompRowGold()
+            LoadCompRowGoldInPV()
             BuyItemV2(CompressedRowGoldToDiamond_C, 10)
             BuyItemV2(DiamondToGoldNuggets_C, 40)
             BuyItemV2(GoldenNuggetsToEmereld_C, 40)
             BuyItemV2(EmereledToCompressedRowGold_C, 40)
-            AddFarmData("CompRowGoldFarm", 105, (A_TickCount - StartTime) // 1000, 1)
+            AddFarmData("CompRowGoldFarm", 69, (A_TickCount - StartTime) // 1000, 1)
         }
-        ReplaceCurrentShulker()
+        CompressPVToShulker()
     }
 
+}
+
+ConvertShulkerCompToShulkerGoldenBlocks(repeatCount := 999999)
+{
+    loop, 9
+    {
+        LoadCompFromShulker()
+        BuyItemV2(CompressedRowGoldToEmereld_C, 10)
+        BuyItemV2(EmereledToGoldenBlock_C, 40)
+        JustStoreInPv1([812, 612])
+    }
+}
+
+ConvertShulkerCompToShulkerGoldenIgnot(repeatCount := 999999)
+{
+    loop, 9
+    {
+        LoadCompFromShulker()
+        BuyItemV2(CompressedRowGoldToEmereld_C, 10)
+        BuyItemV2(EmereledToGoldIgnot_C, 40)
+        JustStoreInPv1([812, 612])
+    }
 }
 
 AddFarmData(section, amount, Time, calls)
@@ -85,32 +114,36 @@ OpenInventory()
     Sleep, 200
 }
 
-LoadCompRowGold()
+LoadCompRowGoldInPV()
 {
-    FirstInvCell := [812, 555]
+    ;FirstInvCell := [812, 555]
 
-    ShulkerCell := [[817, 421], [852,421], [890,420], [921,424]]
+    PVCell := [[817, 421], [852,421], [890,420]]
 
-    StoreInInv := [1080, 390]
-    OpenInventory()
-    Sleep, 1000
+    ;StoreInInv := [1080, 390]
+    StoreInPV := [1070, 333]
+    ;OpenInventory()
+    ;Sleep, 1000
 
-    ; Open Shulker
-    MouseMove, FirstInvCell[1], FirstInvCell[2]
-    Click Right
-    Sleep, 1000
+    ;; Open Shulker
+    ;MouseMove, FirstInvCell[1], FirstInvCell[2]
+    ;Click Right
+    ;Sleep, 1000
+
+    ;Open PV
+    OpenPv1()
+    Sleep, 500
 
     ; Store Everything In Shulker
-    MouseMove, StoreInInv[1], StoreInInv[2]
+    MouseMove, StoreInPV[1], StoreInPV[2]
     Click Left
 
     Sleep, 2000
 
-    Length := ShulkerCell.Length()
-    loop, %Length%
+    loop, 3
     {
-        MouseMove, ShulkerCell[A_Index][1], ShulkerCell[A_Index][2]
-        loop, 10
+        MouseMove, PvFirstRow[A_Index][1], PvFirstRow[A_Index][2]
+        loop, 4
         {
             Click Right
             Sleep, 100
@@ -129,11 +162,189 @@ LoadCompRowGold()
     ; Close the Shulker
     CloseShop()
     Sleep, 500
-
-    OpenInventory()
-
 }
 
+JustStoreInPv1(Point)
+{
+    StoreInPV := [1070, 333]
+    OpenPv1()
+    Sleep, 500
+    if(Point)
+    {
+        MouseMove, Point[1], Point[2]
+        Click Left
+        Sleep, 500
+    }
+    MouseMove, StoreInPV[1], StoreInPV[2]
+    Click Left
+    Sleep, 2000
+
+    if(Point)
+    {
+        MouseMove, Point[1], Point[2]
+        Click Left
+        Sleep, 500
+    }
+    CloseShop()
+}
+
+OpenShulker(Point)
+{
+    MouseMove, Point[1], Point[2]
+    Click Right
+    Sleep, 1000
+}
+
+LoadCompFromShulker()
+{
+    FirstInvCell := [812, 555]
+    ShulkerCells := [[816,419], [846,418], [886,416]]
+    StoreInShulker := [1092,395]
+    StealFromShulker := [970,383]
+
+    OpenInventory()
+    Sleep, 200
+    OpenShulker(FirstInvCell)
+    Sleep, 500
+
+    loop, 3
+    {
+        MouseMove, 0, 0
+        Sleep, 100
+        Point := FirstEmptyCellShulker(false)
+        MouseMove, Point[1], Point[2]
+
+        Sleep, 500
+        Send, {Shift Down}
+        Sleep, 200
+        Click Left
+        Sleep, 200
+        Send, {Shift Up}
+        Sleep, 200
+    }
+
+    ; Close the Shulker
+    CloseShop()
+}
+
+CompressPVToShulker()
+{
+    FirstInvCell := [812, 555]
+    StoreInPV := [1070, 333]
+    StoreInShulker := [1080, 390]
+    OpenPv1()
+    Sleep, 500
+
+    ; Store Everything In Shulker
+    MouseMove, StoreInPV[1], StoreInPV[2]
+    Click Left
+    Sleep, 2000
+
+    ; Rgith click on first cell in PV
+    MouseMove, PvFirstRow[1][1], PvFirstRow[1][2]
+    Sleep, 100
+    Click Right
+    Sleep, 500
+    Sleep, 500
+    Send, {Shift Down}
+    Sleep, 200
+    Click Left
+    Sleep, 200
+    Send, {Shift Up}
+    Sleep, 200
+    Click Left
+    Sleep, 200
+
+    ; loop on third / fourth / fift rows in PV and click on them
+    Send, {Shift Down}
+    loop, 3
+    {
+        length := PvFullRows[A_Index].Length()
+        i := A_Index + 1
+        loop, %length%
+        {
+            MouseMove, PvFullRows[i][A_Index][1], PvFullRows[i][A_Index][2]
+            Click Left
+            Sleep, 100
+        }
+    }
+    Send, {Shift Up}
+
+    CloseShop()
+
+    BuyItemV2(BlackShulker_C, 1, 0)
+    OpenInventory()
+    Sleep, 500
+    MouseMove, FirstInvCell[1], FirstInvCell[2]
+    Sleep, 100
+    Click Right
+    Sleep, 1000
+    MouseMove, StoreInShulker[1], StoreInShulker[2]
+    Click Left
+    Sleep, 3500
+    CloseShop()
+    Sleep, 500
+
+    FirstInvCell_PV := [812, 612]
+    OpenPv1()
+    Sleep, 1000
+    ; Pick the shulker from first cell and placed it in any empty place in the last row or in the row before last
+    MouseMove, FirstInvCell_PV[1], FirstInvCell_PV[2]
+    Sleep, 100
+    Click Left
+    Sleep, 1000
+
+    isShulkerToPV := false
+
+    loop, 9
+    {
+        if(isEmptyCell(PvFifthRow[A_Index]))
+        {
+            MouseMove, PvFifthRow[A_Index][1], PvFifthRow[A_Index][2]
+            Sleep, 100
+            Click Left
+            Sleep, 500
+
+            MouseMove, StoreInPV[1], StoreInPV[2]
+            Sleep, 100
+            Click Left
+            Sleep, 1000
+            CloseShop()
+            isShulkerToPV := true
+            Return
+        }
+    }
+
+    loop, 9
+    {
+        if(isEmptyCell(PvSixthRow[A_Index]))
+        {
+            MouseMove, PvSixthRow[A_Index][1], PvSixthRow[A_Index][2]
+            Sleep, 100
+            Click Left
+            Sleep, 500
+
+            MouseMove, StoreInPV[1], StoreInPV[2]
+            Sleep, 100
+            Click Left
+            Sleep, 1000
+            CloseShop()
+            isShulkerToPV := true
+            Return
+        }
+    }
+
+    Sleep, 500
+    OpenEnderChest()
+    ; Store Everything
+    MouseMove, StoreInShulker[1], StoreInShulker[2]
+    Sleep, 500
+    Click Left
+    Sleep, 2000
+    CloseShop()
+}
+
+/*
 LoadGoldenBlocksInShulker()
 {
     FirstInvCell := [812, 555]
@@ -214,6 +425,7 @@ ReplaceCurrentShulker()
     ; Buy a new shulker from Shop
     BuyItemV2(BlackShulker_C, 1, 0)
 }
+*/
 
 FarmNeitherBlocks(repeatCount := 1){
     loop, 99999 {
@@ -589,9 +801,9 @@ ShowMaterialForFullArmors(num := 1){
 
 WoodenSword -> 21 Golden Nuggets --> 6 clicks
 StoneSword -> 13 Golden Nuggets, 7 CompressedRowGold --> 6 clicks
-IronSword -> 10 CompressedRowGold, 14 IronIgnot --> 6 clicks
+IronSword -> 10 CompressedRowGold, 11 IronIgnot --> 6 clicks
 DiamondSword -> 13 IrongIgnot, 12 GoldenBlocks --> 6 clicks
-FullNetheierSword -> 724Golden Blocks --> 20 clicks
+FullNetheierSword -> 78 Golden Blocks --> 6 clicks
 
 */
 
@@ -599,8 +811,8 @@ ShowMaterialForFullSword(num := 1){
     Gold := []
     Gold.Push({name: "GoldenNuggets", count: 34, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 8, 64, num * 34)})
     Gold.Push({name: "CompressedRowGold", count: 17, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 8, 64, num * 11)})
-    Gold.Push({name: "Golden Ignot", count: 27, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 2, 5.3333333, num * 13)})
-    Gold.Push({name: "Golden Block", count: 736, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(1, 1, 1, num * 12)})
+    Gold.Push({name: "Golden Ignot", count: 24, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(2, 2, 5.3333333, num * 13)})
+    Gold.Push({name: "Golden Block", count: 90, mainInput: "GoldenBlocks", CeiledInput: CalcInputNeededToMakeAmount(1, 1, 1, num * 12)})
 
     /*
     Neither := []
@@ -644,6 +856,7 @@ BuyNumberOfDiamondPickAxe(num := 9){
     BuyAllItems(StonePickAxe_C, 6, num)
     BuyAllItems(IronPickAxe_C, 6, num)
     BuyAllItems(DiamondPickAxe_C, 6, num)
+    BuyAllItems(NeitherPickAxe_C, 6, num)
 }
 
 BuyNumberOfNetherPickAxe(num := 9){

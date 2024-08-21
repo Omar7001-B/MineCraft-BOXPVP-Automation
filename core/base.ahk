@@ -24,6 +24,51 @@ global DefualtDelayAfter := 2
 Global GlobalClicks := 0
 Global TargetFunction
 
+global ShulkerFirstRow := [[814,420], [852,417], [888,420], [920,420], [960, 420], [990,419], [1030,421], [1065,421], [1100,418]]
+global ShulkerSecondRow := [[814, 455], [852,455], [888,455], [920,455], [960, 455], [990,455], [1030,455], [1065,456], [1100,455]]
+global ShulkerThirdRow := [[814, 490], [852,490], [888,490], [920,490], [960, 490], [990,490], [1030,490], [1065,493], [1100,490]]
+global ShulkerFullRows := [ShulkerFirstRow, ShulkerSecondRow, ShulkerThirdRow]
+
+BaseDebug(msg)
+{
+    MyDebug("BaseDebug: " . msg)
+}
+
+isEmptyCell(Point)
+{
+    EmptyCellColor := 0x8b8b8b
+    EmptyCellColorMouse := 0xC5C5C5
+
+    CurrentColor := GetPixel(Point[1], Point[2])
+    if (CurrentColor = EmptyCellColor || CurrentColor = EmptyCellColorMouse) {
+        return True
+    }
+
+    return False
+}
+
+FirstEmptyCellShulker(empty := true)
+{
+
+    length := ShulkerFullRows.Length()
+    for i, Row in ShulkerFullRows {
+        for j, Cell in Row {
+            Point := [Cell[1], Cell[2]]
+            if(empty){
+                if(isEmptyCell(Point)){
+                    return Point
+                }
+            }
+            else{
+                if(!isEmptyCell(Point)){
+                    return Point
+                }
+            }
+        }
+    }
+
+}
+
 FirstEmptyCellShop() ; Empty Cell While Buying
 {
     InventoryCells :=
@@ -41,11 +86,9 @@ FirstEmptyCellShop() ; Empty Cell While Buying
 
     for i, Row in InventoryCells {
         for j, Cell in Row {
-            X := Cell[1]
-            Y := Cell[2]
-            CurrentColor := GetPixel(X, Y)
-            if (CurrentColor = EmptyCellColor || CurrentColor = EmptyCellColorMouse) {
-                return [X, Y]
+            Point := [Cell[1], Cell[2]]
+            if(isEmptyCell(Point)){
+                return Point
             }
         }
     }
@@ -86,10 +129,11 @@ CopyMouseCoordinates() {
     PixelGetColor, color, % mouseX, % mouseY
     CoordString := mouseX "," mouseY "`n"
     colorString := "0x" . color "`n"
-    Clipboard := CoordString
+    Clipboard := mouseX "," mouseY
     FileAppend, %CoordString%, %CoordsFile%
     ;FileAppend, %colorString%, %CoordsFile%
-    MyDebug("Mouse Coordinates: " . CoordString . " Color: " . colorString)
+    BaseDebug("Mouse Coordinates: " . CoordString . " Color: " . colorString)
+    BaseDebug("ColorsSquare: " . SquarePixelColor([mouseX, mouseY], 4))
 }
 
 MoveToMouseCoordinatesFromClipBoard() {
@@ -97,8 +141,8 @@ MoveToMouseCoordinatesFromClipBoard() {
     StringSplit, xy, CoordString, `,
     PixelGetColor, color, % xy1, % xy2
     MouseMove, %xy1%, %xy2%
-    MyDebug("Moving mouse to " . xy1 . " " . xy2)
-    MyDebug("Color: " . color)
+    BaseDebug("Moving mouse to " . xy1 . " " . xy2)
+    BaseDebug("Color: " . color)
 }
 
 GetPixelColor(mouseX, mouseY){
@@ -122,7 +166,7 @@ EnsureGameFocus()
     ; Loop with a while statement, limiting it to 10 iterations
     while (OutputVar != 0xFCDD47 && Counter < 10)
     {
-        MyDebug("Game is not focused")
+        BaseDebug("Game is not focused")
         WinActivate, Minecraft
         Send, {Esc}
         Sleep, 1000
@@ -132,12 +176,12 @@ EnsureGameFocus()
 
     if (OutputVar != 0xFCDD47)
     {
-        MyDebug("Game is not focused, Script Wil Restart")
+        BaseDebug("Game is not focused, Script Wil Restart")
         RestartTheScript()
     }
     Else
     {
-        MyDebug("Game is focused")
+        BaseDebug("Game is focused")
     }
 }
 
@@ -145,8 +189,8 @@ EnsureMineCraftOpen() {
     WinGetTitle, currentWindow, A
     if !InStr(currentWindow, "Minecraft") {
         WinGet, hwnd, ID, A
-        MyDebug("Ensuring Minecraft is open, we're currently in " . currentWindow)
-        MyDebug("Window Handle: " hwnd)
+        BaseDebug("Ensuring Minecraft is open, we're currently in " . currentWindow)
+        BaseDebug("Window Handle: " hwnd)
         ; make loop 3 times, each time activate minecraft then sleep 1 second and check if current window title = minecraft, if so return , else then reload tEh script
         Loop, 3 {
             Sleep, 1000
@@ -157,17 +201,32 @@ EnsureMineCraftOpen() {
                 return
             }
         }
-        MyDebug("Minecraft is not open, Script Wil Restart")
+        BaseDebug("Minecraft is not open, Script Wil Restart")
         RestartTheScript()
     }
+}
+
+SquarePixelColor(Point, square) {
+    x := Point[1] - square/2
+    y := Point[2] - square/2
+    colors := ""
+    loop % square {
+        loop % square {
+            PixelGetColor, color, % x + A_Index, % y + A_Index
+            colors := colors . color
+        }
+    }
+    return colors
 }
 
 MoveMouseClick(Point, Speed := "", Delay := "", DpelayAfter := "", checkPixel := 0) {
     EnsureMineCraftOpen()
     ;MouseClick, ,% Point[1], % Point[2]
     if(checkPixel == 1){
-        PixelGetColor, color, % Point[1], % Point[2]
-        ;MyDebug("Color Before Click: " . color . " at " . Point[1] . " " . Point[2])
+        BaseDebug("Checking Pixel Color Before Click")
+        ;PixelGetColor, color, % Point[1], % Point[2]
+        color := SquarePixelColor(Point, 3)
+        ;BaseDebug("Color Before Click: " . color . " at " . Point[1] . " " . Point[2])
         Sleep, 50
 
         MouseClick, left, % Point[1], % Point[2]
@@ -175,18 +234,22 @@ MoveMouseClick(Point, Speed := "", Delay := "", DpelayAfter := "", checkPixel :=
         MouseMove, 0, 0
         Sleep, 400
 
-        PixelGetColor, color2, % Point[1], % Point[2]
-        ;MyDebug("Color After Click: " . color2 . " at " . Point[1] . " " . Point[2])
-        ;MyDebug("--------")
+        ;PixelGetColor, color2, % Point[1], % Point[2]
+        color2 := SquarePixelColor(Point, 4)
+        ;BaseDebug("Color After Click: " . color2 . " at " . Point[1] . " " . Point[2])
+        ;BaseDebug("--------")
         Sleep, 50
 
         if(color == color2){
+            BaseDebug("Pixel Color Before and After Click is Same, Failed!")
             return 0
         }
     }
     else{
+        BaseDebug("Moving Mouse to " . Point[1] . " " . Point[2])
         MouseClick, left, % Point[1], % Point[2]
     }
+    BaseDebug("Mouse Clicked Successfully")
     return 1
 }
 
@@ -243,6 +306,7 @@ FormatTime(ElapsedTime) {
 }
 
 MyDebug(variable) {
+    return
     FileAppend, % variable, %MyDebugFile%
     FileAppend, % "`n", %MyDebugFile%
 }
@@ -273,7 +337,7 @@ CheckPing(IPToPing := "31.25.11.33") {
         }
     }
 
-    MyDebug(maxPing)
+    BaseDebug(maxPing)
 
     if (maxPing != "")
         return maxPing
@@ -300,7 +364,7 @@ CheckPingV2(IPToPing := "31.25.11.33") {
         }
     }
 
-    MyDebug(maxPing)
+    BaseDebug(maxPing)
 
     if (maxPing != "")
         return maxPing
@@ -393,7 +457,7 @@ StopClicking() {
 ;---------------------------------------
 
 RestartTheScript() {
-    MyDebug("Restarting the script")
+    BaseDebug("Restarting the script")
     EnableMouse()
     global DisableWurstHacks
     Send %DisableWurstHacks%

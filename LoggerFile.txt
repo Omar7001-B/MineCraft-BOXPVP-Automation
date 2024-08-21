@@ -10,3 +10,81 @@ Golden Block : [736] 11s 32 --- 12 = 12
 GoldenBlocks - 20
 ------------------
 
+Material for 1 full swords
+
+Gold : 
+GoldenNuggets : [34] 34 --- 2 = 2s 0
+CompressedRowGold : [17] 17 --- 2 = 2s 0
+Golden Ignot : [24] 24 --- 4 = 22
+Golden Block : [18] 18 --- 12 = 12
+GoldenBlocks - 20
+------------------
+
+Material for 9 pickaxes
+
+Gold : 
+GoldenNuggets : [306] 4s 50 --- 6 = 6s 0
+CompressedRowGold : [153] 2s 25 --- 4 = 4s 0
+Golden Ignot : [216] 3s 24 --- 42 = 3s 32
+Golden Block : [108] 1s 44 --- 1s 44 = 1s 44
+GoldenBlocks - 2s 32
+------------------
+Neither : 
+Scrap : [54] 54 --- 2 = 1s 44
+CompBrick : [9] 9 --- 2 = 42
+Ignot : [9] 9 --- 2 = 38
+NetherBlocks : [27] 27 --- 27 = 27
+NetherBlocks - 33
+------------------
+End : 
+Shards : [27] 27 --- 2 = 1s 0
+Bud : [18] 18 --- 2 = 32
+Clusters : [18] 18 --- 4 = 23
+Amethyst : [27] 27 --- 27 = 27
+EndBlocks - 35
+------------------
+
+Material for 9 pickaxes
+
+Gold : 
+GoldenNuggets : [306] 4s 50 --- 6 = 6s 0
+CompressedRowGold : [153] 2s 25 --- 4 = 4s 0
+Golden Ignot : [216] 3s 24 --- 42 = 3s 32
+Golden Block : [108] 1s 44 --- 1s 44 = 1s 44
+GoldenBlocks - 2s 32
+------------------
+Neither : 
+Scrap : [54] 54 --- 2 = 1s 44
+CompBrick : [9] 9 --- 2 = 42
+Ignot : [9] 9 --- 2 = 38
+NetherBlocks : [27] 27 --- 27 = 27
+NetherBlocks - 33
+------------------
+End : 
+Shards : [27] 27 --- 2 = 1s 0
+Bud : [18] 18 --- 2 = 32
+Clusters : [18] 18 --- 4 = 23
+Amethyst : [27] 27 --- 27 = 27
+EndBlocks - 35
+------------------
+
+Material for 1 full swords
+
+Gold : 
+GoldenNuggets : [34] 34 --- 2 = 2s 0
+CompressedRowGold : [17] 17 --- 2 = 2s 0
+Golden Ignot : [24] 24 --- 4 = 22
+Golden Block : [18] 18 --- 12 = 12
+GoldenBlocks - 20
+------------------
+
+Material for 1 full swords
+
+Gold : 
+GoldenNuggets : [34] 34 --- 2 = 2s 0
+CompressedRowGold : [17] 17 --- 2 = 2s 0
+Golden Ignot : [24] 24 --- 4 = 22
+Golden Block : [90] 1s 26 --- 12 = 12
+GoldenBlocks - 20
+------------------
+

@@ -28,6 +28,30 @@
         return 1
     }
 }
+OpenEnderChest() {
+    EnsureMineCraftOpen()
+    EnsureGameFocus()
+
+    PixelGetColor, color1, 960, 540
+    WaitForGoodPing()
+    Send, t
+    Sleep, 300
+    Send /enderchest
+    Sleep, 200
+    Send, { Enter }
+    Sleep, 400
+    PixelGetColor, color2, 960, 540
+    if(color1 == color2)
+    {
+        MyDebug("Shop not opened")
+        return 0
+    }
+    Else
+    {
+        MyDebug("Shop opened Successfully!")
+        return 1
+    }
+}
 
 CloseShop() {
     Sleep, 100
@@ -44,10 +68,16 @@ Scroll(repeatCount) {
     }
 }
 
+DebugShop(msg)
+{
+    MyDebug("Message From Shop: " msg)
+}
+
 BuyAllItems(path, number := 16, numberOfClicks := 1, slowItems := 0) {
     EnsureMineCraftOpen()
     isShop := OpenShop()
     while(isShop == 0) {
+        DebugShop("Shop not opened, Got into the loop Now!")
         Sleep, 3000
         EnsureMineCraftOpen()
         isShop := OpenShop()
@@ -57,22 +87,26 @@ BuyAllItems(path, number := 16, numberOfClicks := 1, slowItems := 0) {
     counter := 0
 
     loop, % length {
-        Sleep, 100
+        DebugShop("Trying to click Item_" path[A_Index] "At the shop")
+        Sleep, 200
         WaitForGoodPing()
         Point := path[A_Index]
         Attempts := 1
-        isClicked := MoveMouseClick(Point,,,,1)
+        isClicked := MoveMouseClick(Point,,,,0)
         while(isClicked == 0){
+            DebugShop("Item not clicked, Got into the loop Now!")
             Sleep, 5000
-            isClicked := MoveMouseClick(Point,,,,1)
+            isClicked := MoveMouseClick(Point,,,,0)
             Attempts := Attempts + 1
             if(Attempts >= 3){
+                DebugShop("3 attempts failed, Now BuyItem again!")
                 EnsureMineCraftOpen()
                 EnsureGameFocus()
                 BuyItemV2(item, repeatCount, shiftKey, countDrop, speed)
             }
         }
         counter := counter + 1
+        DebugShop("Item clicked Successfully")
     }
 
     ;Sleep, 500
@@ -80,7 +114,7 @@ BuyAllItems(path, number := 16, numberOfClicks := 1, slowItems := 0) {
     numberOfClicks2 = % numberOfClicks + 0
 
     loop, %number% {
-        Sleep, 500
+        Sleep, 200
 
         dx := A_Index
 
@@ -110,7 +144,7 @@ BuyAllItems(path, number := 16, numberOfClicks := 1, slowItems := 0) {
     }
 
     CloseShop()
-    Sleep, 4000
+    Sleep, 1000
 }
 
 BuyItemV2(item, repeatCount := 1, shiftKey := True, countDrop := 0, speed := 0) {

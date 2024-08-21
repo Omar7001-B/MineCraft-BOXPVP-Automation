@@ -9,25 +9,25 @@ global IronArmors_C := M17(Armors_C, [956, 441])
 global DiamondArmors_C := M17(Armors_C, [996, 441])
 ; -------------------- Swords --------------------
 global Swords_C := [[850, 400]]
-global WoodenSword_C := M17(Swords_C , [880, 400])
+global WoodenSword_C := M17(Swords_C , [885, 400])
 global StoneSword_C := M17(Swords_C, [925, 400])
-global IronSword_C := M17(Swords_C, [955, 400])
-global DiamondSword_C := M17(Swords_C, [990, 400])
-global NeitherSword_C := M17(Swords_C, [1030, 400])
+global IronSword_C := M17(Swords_C, [960, 400])
+global DiamondSword_C := M17(Swords_C, [995, 400])
+global NeitherSword_C := M17(Swords_C, [1032, 401])
 ; -------------------- PickAxes --------------------
 global PickAxes_C := [[925, 400]]
-global WoodenPickAxe_C := M17(PickAxes_C, [880, 400])
+global WoodenPickAxe_C := M17(PickAxes_C, [885, 400])
 global StonePickAxe_C := M17(PickAxes_C, [925, 400])
-global IronPickAxe_C := M17(PickAxes_C, [955, 400])
-global DiamondPickAxe_C := M17(PickAxes_C, [990, 400])
-global NeitherPickAxe_C := M17(NeitherShop_C, [1030, 400])
+global IronPickAxe_C := M17(PickAxes_C, [960, 400])
+global DiamondPickAxe_C := M17(PickAxes_C, [995, 400])
+global NeitherPickAxe_C := M17(PickAxes_C, [1032, 401])
 ; -------------------- Axes --------------------
 global Axes_C := [[998,400]]
 global WoodenAxe_C := M17(Axes_C, [880, 400])
 global StoneAxe_C := M17(Axes_C, [925, 400])
 global IronAxe_C := M17(Axes_C, [955, 400])
 global DiamondAxe_C := M17(Axes_C, [990, 400])
-global NeitherAxe_C := M17(NeitherShop_C, [1030, 400])
+global NeitherAxe_C := M17(Axes_C, [1030, 400])
 
 /*
 

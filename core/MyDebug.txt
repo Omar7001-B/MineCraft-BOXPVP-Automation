@@ -1,1419 +1,379 @@
 Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 10920 in 3536 seconds130 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11004 in 3563 seconds131 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11088 in 3590 seconds132 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 26 seconds1 calls
-Total CompRowGoldFarm: 11172 in 3616 seconds133 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11256 in 3643 seconds134 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11340 in 3670 seconds135 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11424 in 3697 seconds136 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11508 in 3724 seconds137 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11592 in 3751 seconds138 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11676 in 3778 seconds139 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11760 in 3805 seconds140 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11844 in 3832 seconds141 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 11928 in 3859 seconds142 calls
-
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 37 seconds1 calls
-Total CompRowGoldFarm: 12012 in 3896 seconds143 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12096 in 3923 seconds144 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12180 in 3950 seconds145 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12264 in 3977 seconds146 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12348 in 4004 seconds147 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12432 in 4031 seconds148 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12516 in 4058 seconds149 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12600 in 4085 seconds150 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12684 in 4112 seconds151 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12768 in 4139 seconds152 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12852 in 4166 seconds153 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 12936 in 4193 seconds154 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13020 in 4220 seconds155 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 26 seconds1 calls
-Total CompRowGoldFarm: 13104 in 4246 seconds156 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13188 in 4273 seconds157 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13272 in 4300 seconds158 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 26 seconds1 calls
-Total CompRowGoldFarm: 13356 in 4326 seconds159 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13440 in 4353 seconds160 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13524 in 4380 seconds161 calls
-
-Game is not focused
-Game is not focused
-Game is focused
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13608 in 4407 seconds162 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13692 in 4434 seconds163 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13776 in 4461 seconds164 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 13860 in 4488 seconds165 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 26 seconds1 calls
-Total CompRowGoldFarm: 13944 in 4514 seconds166 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14028 in 4541 seconds167 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14112 in 4568 seconds168 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14196 in 4595 seconds169 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14280 in 4622 seconds170 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14364 in 4649 seconds171 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14448 in 4676 seconds172 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14532 in 4703 seconds173 calls
-
-Game is not focused
-Game is focused
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14616 in 4730 seconds174 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the scriptInterrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Game is not focused
-Game is not focused
-Game is not focused
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 27 seconds1 calls
-Total CompRowGoldFarm: 14700 in 4757 seconds175 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 26 seconds1 calls
-Total CompRowGoldFarm: 14784 in 4783 seconds176 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 26 seconds1 calls
-Total CompRowGoldFarm: 14868 in 4809 seconds177 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Mouse Coordinates: 961,417
- Color: 0x0xB0F6FF
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 14952 in 4837 seconds178 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15036 in 4865 seconds179 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15120 in 4893 seconds180 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15204 in 4921 seconds181 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15288 in 4949 seconds182 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Ensuring Minecraft is open, we're currently in 
-Window Handle: 
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 15372 in 4980 seconds183 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15456 in 5008 seconds184 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15540 in 5036 seconds185 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15624 in 5064 seconds186 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 84 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15708 in 5092 seconds187 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15813 in 5120 seconds188 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 15918 in 5148 seconds189 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Ensuring Minecraft is open, we're currently in 
-Window Handle: 
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 16023 in 5178 seconds190 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 16128 in 5206 seconds191 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 16233 in 5234 seconds192 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 16338 in 5262 seconds193 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 16443 in 5290 seconds194 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Ensuring Minecraft is open, we're currently in 
-Window Handle: 
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 36 seconds1 calls
-Total CompRowGoldFarm: 16548 in 5326 seconds195 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 16653 in 5354 seconds196 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 29 seconds1 calls
-Total CompRowGoldFarm: 16758 in 5383 seconds197 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 16863 in 5411 seconds198 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 16968 in 5439 seconds199 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 17073 in 5467 seconds200 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 17178 in 5495 seconds201 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Ensuring Minecraft is open, we're currently in 
-Window Handle: 
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 17283 in 5525 seconds202 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 17388 in 5553 seconds203 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 17493 in 5581 seconds204 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 17598 in 5609 seconds205 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 17703 in 5637 seconds206 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 17808 in 5665 seconds207 calls
-
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 17913 in 5693 seconds208 calls
-
-Game is not focused
-
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 29 seconds1 calls
-Total CompRowGoldFarm: 18018 in 5722 seconds209 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 28 seconds1 calls
-Total CompRowGoldFarm: 18123 in 5750 seconds210 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the scriptInterrupted by EscInterrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 29 seconds1 calls
-Total CompRowGoldFarm: 18228 in 5779 seconds211 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 29 seconds1 calls
-Total CompRowGoldFarm: 18333 in 5808 seconds212 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 18438 in 5838 seconds213 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 18543 in 5868 seconds214 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 18648 in 5898 seconds215 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 30 seconds1 calls
-Total CompRowGoldFarm: 18753 in 5928 seconds216 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 32 seconds1 calls
-Total CompRowGoldFarm: 18858 in 5960 seconds217 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 18963 in 5991 seconds218 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 32 seconds1 calls
-Total CompRowGoldFarm: 19068 in 6023 seconds219 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 19173 in 6054 seconds220 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 32 seconds1 calls
-Total CompRowGoldFarm: 19278 in 6086 seconds221 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Ensuring Minecraft is open, we're currently in 
-Window Handle: 
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 34 seconds1 calls
-Total CompRowGoldFarm: 19383 in 6120 seconds222 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 19488 in 6151 seconds223 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 19593 in 6182 seconds224 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 19698 in 6213 seconds225 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 19803 in 6244 seconds226 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 19908 in 6275 seconds227 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 32 seconds1 calls
-Total CompRowGoldFarm: 20013 in 6307 seconds228 calls
-
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 32 seconds1 calls
-Total CompRowGoldFarm: 20118 in 6339 seconds229 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 20223 in 6370 seconds230 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Ensuring Minecraft is open, we're currently in 
-Window Handle: 
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 34 seconds1 calls
-Total CompRowGoldFarm: 20328 in 6404 seconds231 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 20433 in 6435 seconds232 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 20538 in 6466 seconds233 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 20643 in 6497 seconds234 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 20748 in 6528 seconds235 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 32 seconds1 calls
-Total CompRowGoldFarm: 20853 in 6560 seconds236 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 20958 in 6591 seconds237 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 21063 in 6622 seconds238 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 21168 in 6653 seconds239 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 21273 in 6684 seconds240 calls
-
-Ensuring Minecraft is open, we're currently in main.ahk - BOXPVP_Automation - Visual Studio Code [Administrator]
-Window Handle: 0x10b78
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 32 seconds1 calls
-Total CompRowGoldFarm: 21378 in 6716 seconds241 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 21483 in 6747 seconds242 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Shop opened Successfully!
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 21588 in 6778 seconds243 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 21693 in 6809 seconds244 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 21798 in 6840 seconds245 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 32 seconds1 calls
-Total CompRowGoldFarm: 21903 in 6872 seconds246 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 22008 in 6903 seconds247 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 22113 in 6934 seconds248 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 22218 in 6965 seconds249 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 31 seconds1 calls
-Total CompRowGoldFarm: 22323 in 6996 seconds250 calls
-
-Game is not focused
-Game is focused
-Shop opened Successfully!
-Shop opened Successfully!
-Shop opened Successfully!
-Ensuring Minecraft is open, we're currently in 
-Window Handle: 
-Shop opened Successfully!
-Added 105 to CompRowGoldFarm in 34 seconds1 calls
-Total CompRowGoldFarm: 22428 in 7030 seconds251 calls
-
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
-Interrupted by Esc
-Restarting the script
+BaseDebug: Restarting the script
+Shop opened Successfully!
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 885 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 782 465
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 764 507
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 775 554
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 773 589
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Moving Mouse to 770 626
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+Shop opened Successfully!
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 782 465
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 764 507
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 775 554
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 773 589
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 770 626
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+Shop opened Successfully!
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 960 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 782 465
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 764 507
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 775 554
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 773 589
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 770 626
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+Shop opened Successfully!
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 995 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 782 465
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 764 507
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 775 554
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 773 589
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 770 626
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 915 556
+BaseDebug: Mouse Clicked Successfully
+Shop opened Successfully!
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+Interrupted by Esc
+BaseDebug: Restarting the script
+Interrupted by Esc
+BaseDebug: Restarting the script
+Interrupted by Esc
+BaseDebug: Restarting the script
+Shop opened Successfully!
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 885 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 782 465
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 764 507
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 775 554
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 773 589
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 770 626
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+Shop opened Successfully!
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 782 465
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 764 507
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 775 554
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 773 589
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 770 626
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+Shop opened Successfully!
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 960 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 782 465
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 764 507
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 775 554
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 773 589
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 770 626
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+Shop opened Successfully!
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 925 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+Message From Shop: Trying to click Item_At the shop
+BaseDebug: Moving Mouse to 995 400
+BaseDebug: Mouse Clicked Successfully
+Message From Shop: Item clicked Successfully
+BaseDebug: Moving Mouse to 777 425
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 782 465
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 764 507
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 775 554
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 773 589
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 770 626
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 1139 461
+BaseDebug: Mouse Clicked Successfully
+BaseDebug: Moving Mouse to 952 555
+BaseDebug: Mouse Clicked Successfully
+Interrupted by Esc
+BaseDebug: Restarting the script
+Interrupted by Esc
+BaseDebug: Restarting the script
+Interrupted by Esc
+BaseDebug: Restarting the script
+Interrupted by Esc
+BaseDebug: Restarting the script
